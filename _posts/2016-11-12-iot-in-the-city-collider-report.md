@@ -46,15 +46,15 @@ For the next hour, participants broke into four teams to discuss, brainstorm and
 Libraries could lend out not just books, CDs and videos but also sensors that could be deployed by residents to gather data about the city. The project aims to create a community 'living lab' where people could place sensors in areas that they don’t feel safe.
 <div class="row b50">
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-2.pdf"><img src="{{ site.urlimg }}Collider-ideas-2.pdf" alt="collider flipboard image"></a>     
+        <a href="{{ site.urlimg }}Collider-ideas-2.pdf"><img src="{{ site.urlimg }}Collider-ideas-2-thumb.jpg" alt="collider flipboard image"></a>     
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-3.pdf"><img src="{{ site.urlimg }}Collider-ideas-3.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-3.pdf"><img src="{{ site.urlimg }}Collider-ideas-3-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
 
       <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-4.pdf"><img src="{{ site.urlimg }}Collider-ideas-4.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-4.pdf"><img src="{{ site.urlimg }}Collider-ideas-4-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
  </div>
 
@@ -63,15 +63,15 @@ Libraries could lend out not just books, CDs and videos but also sensors that co
 Placing sensors on dogs would allow people to gauge how busy parks are at a particular time, and help decide whether to make a trip or not. We could also tag children’s buggies and park benches so that we could map out particular types of usage. 
 <div class="row b50">
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-5.pdf"><img src="{{ site.urlimg }}Collider-ideas-5.pdf" alt="collider flipboard image"></a>     
+        <a href="{{ site.urlimg }}Collider-ideas-5.pdf"><img src="{{ site.urlimg }}Collider-ideas-5-thumb.jpg" alt="collider flipboard image"></a>     
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-6.pdf"><img src="{{ site.urlimg }}Collider-ideas-6.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-6.pdf"><img src="{{ site.urlimg }}Collider-ideas-6-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
 
       <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-7.pdf"><img src="{{ site.urlimg }}Collider-ideas-7.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-7.pdf"><img src="{{ site.urlimg }}Collider-ideas-7-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
  </div>
 
@@ -86,7 +86,7 @@ Incentivising people to take and upload photos of how full their local recycling
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-8.pdf"><img src="{{ site.urlimg }}Collider-ideas-8.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-8.pdf"><img src="{{ site.urlimg }}Collider-ideas-8-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
 
       <div class="medium-4 columns">
@@ -104,7 +104,7 @@ Placing digital displays on the outside of buses that visualise how full they ar
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-4 columns">
-        <a href="{{ site.urlimg }}Collider-ideas-9.pdf"><img src="{{ site.urlimg }}Collider-ideas-9.pdf" alt="collider flipboard image"></a>
+        <a href="{{ site.urlimg }}Collider-ideas-9.pdf"><img src="{{ site.urlimg }}Collider-ideas-9-thumb.jpg" alt="collider flipboard image"></a>
     </div><!-- /.medium-6.columns -->
 
       <div class="medium-4 columns">
