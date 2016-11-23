@@ -25,6 +25,6 @@
 {% comment %} For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: {% endcomment %}
 	{% if site.apple-touch-icon-precomposed %}<link rel="apple-touch-icon-precomposed" href="{{ site.url }}/assets/img/{{ site.apple-touch-icon-precomposed }}">{% comment %} 57×57px {% endcomment %}	{% endif %}
 {% comment %} Favicon for Windows 8  {% endcomment %}
-	{% if site.msapplication_tileimage %}<meta name="msapplication-TileImage" content="assets/img/{{ site.msapplication_tileimage }}">{% endif %}
+	{% if site.msapplication_tileimage %}<meta name="msapplication-TileImage" content="{{ site.url }}/assets/img/{{ site.msapplication_tileimage }}">{% endif %}
 {% comment %} Background Color for Tile for Windows 8  {% endcomment %}
 	{% if site.msapplication_tilecolor %}<meta name="msapplication-TileColor" content="{{ site.msapplication_tilecolor }}">{% endif %}
