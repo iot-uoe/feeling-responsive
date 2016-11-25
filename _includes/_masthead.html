@@ -1,12 +1,14 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-text-only">
+    {% comment %}
     <div class="row">
         <div class="small-12 columns">
             {{ site.slogan }}
         </div>
         <!-- /.small-12.columns -->
     </div>
+    {% endcomment %}
     <!-- /.row -->
 </div><!-- /#masthead -->
 
@@ -21,15 +23,26 @@
 <!-- ******************************************************************** -->
 {% elsif page.header.title %}
 
-<div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+<div id="masthead-with-text" style="
+{% if page.header.background-color %}
+	background: {{ page.header.background-color }};
+{% endif %} 
+
+{% if page.header.image_fullwidth %}
+
+{% elsif page.header.pattern %}
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}')
+{% endif %}">
 </div><!-- /#masthead -->
 <div id="masthead-text-only">
+    {% comment %}
     <div class="row">
         <div class="small-12 columns">
-            {{ page.header.title }}
+           {{ page.header.title }}
         </div>
         <!-- /.small-12.columns -->
     </div>
+    {% endcomment %}
     <!-- /.row -->
 </div>
 <!-- /.masthead -->

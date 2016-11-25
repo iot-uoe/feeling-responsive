@@ -119,12 +119,12 @@ $topbar-menu-icon-color-toggled: $ci-bright-pink;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $grey-14;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: light($ci-red);
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: #000;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
