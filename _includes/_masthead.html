@@ -1,12 +1,14 @@
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-text-only">
+    {% comment %}
     <div class="row">
         <div class="small-12 columns">
             {{ site.slogan }}
         </div>
         <!-- /.small-12.columns -->
     </div>
+    {% endcomment %}
     <!-- /.row -->
 </div><!-- /#masthead -->
 
@@ -33,12 +35,14 @@
 {% endif %}">
 </div><!-- /#masthead -->
 <div id="masthead-text-only">
+    {% comment %}
     <div class="row">
         <div class="small-12 columns">
-           {% comment %} {{ page.header.title }} {% endcomment %}
+           {{ page.header.title }}
         </div>
         <!-- /.small-12.columns -->
     </div>
+    {% endcomment %}
     <!-- /.row -->
 </div>
 <!-- /.masthead -->

@@ -26,7 +26,11 @@ layout: page
             </tr>
             <tr>
                 <td><b>Location:</b></td>
-                <td>{{ page.venue }}</td>
+                {% if venue.address1 %}
+                    <td>{{ address }}</td>
+                {% else %}
+                    <td>{{ page.venue }}</td>
+                {% endif %}
             </tr>
             {% if page.speaker %}
             <tr>

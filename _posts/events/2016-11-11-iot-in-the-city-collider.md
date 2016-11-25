@@ -8,7 +8,7 @@ speakers:
     - Simon Chapple
     - Ritchie Somerville
     - Eoghan Howard
-venue: "Design Informatics"
+venue: design-informatics
 start_time: 2016-11-11 14:00
 end_time: 2016-11-11 17:00
 registration: https://www.eventbrite.co.uk/e/collider-internet-of-things-in-the-city-tickets-29079467470
