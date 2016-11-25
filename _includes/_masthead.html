@@ -21,12 +21,21 @@
 <!-- ******************************************************************** -->
 {% elsif page.header.title %}
 
-<div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+<div id="masthead-with-text" style="
+{% if page.header.background-color %}
+	background: {{ page.header.background-color }};
+{% endif %} 
+
+{% if page.header.image_fullwidth %}
+
+{% elsif page.header.pattern %}
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}')
+{% endif %}">
 </div><!-- /#masthead -->
 <div id="masthead-text-only">
     <div class="row">
         <div class="small-12 columns">
-            {{ page.header.title }}
+           {% comment %} {{ page.header.title }} {% endcomment %}
         </div>
         <!-- /.small-12.columns -->
     </div>
