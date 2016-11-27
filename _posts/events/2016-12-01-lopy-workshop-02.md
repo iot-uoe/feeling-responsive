@@ -16,7 +16,7 @@ We'll be working once again with the [Pycom LoPy](https://www.pycom.io/solutions
 
 The workshop will be held in the new uCreate Studio at the Main Library. This has been created as a dedicated workshop space for all kinds of maker activities, and will have have pretty much everything we need.
 
-**The event is open to both staff and students, but we are limited to 20 people in total for this event so please [book early](https://www.eventbrite.com/e/iot-lopy-workshop-tickets-29644817447). Some familiarity with Python programming will be useful.**
+**The event is open to both staff and students, but we are limited to 20 people in total so please [book early](https://www.eventbrite.com/e/iot-lopy-workshop-tickets-29644817447). Some familiarity with Python programming will be useful.**
 
 Please bring your own laptop (Windows, Mac, Linux), and it would be helpful if you could pre-install the latest version of the Pycom IDE, [Pymakr](https://www.pycom.io/solutions/pymakr/). (Note that Pymakr has been upgraded significantly since the October workshop.)
 
