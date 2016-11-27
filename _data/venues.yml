@@ -10,4 +10,10 @@ design-informatics: # replace this with your info
   postcode: "EH1 2LE"
   mapurl: http://osm.org/go/evfLgzO19--?layers=H&m=&way=253564810
   
-
+ucreate-studio:
+  room: "uCreate Studio (Room 1.12)"
+  address1: "1st Floor, Main Library"
+  address2: "30 George Square"
+  city: Edinburgh
+  postcode: "EH8 9LJ"
+  mapurl: http://osm.org/go/evfLiitpd?layers=H&way=4308724

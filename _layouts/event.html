@@ -10,7 +10,7 @@ layout: page
 {{ venue.address2 | strip | append: "," }}
 {{ venue.city     | strip | append: "," }}
 {{ venue.postcode | strip }}
-<a href="{{ venue.mapurl }}" target="_blank">View map</a>
+<a href="{{ venue.mapurl }}" target="_blank"> View map</a>
 
 {% endcapture %}
 
@@ -37,10 +37,11 @@ layout: page
                 <td><b>Speaker:</b></td>
                 <td>{{ page.speaker }}</td>
             </tr>
-            {% else if page.speakers %}
+            {% endif %}
+            {% if page.speakers %}
             <tr>
                 <td><b>Speakers:</b></td>               
-                <td>{{ page.speakers | join: ', '  }} </td>              
+                <td>{{ page.speakers | join: ', '  }} </td>        
             {% endif %}
             {% if page.registration %}
             <tr>
