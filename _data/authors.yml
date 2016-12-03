@@ -19,3 +19,10 @@ ewan: # replace this with your info
   email:
   twitter: ""
 # you can add more authors here
+
+valentin:
+  name: "Valentin Radu"
+  siterole: "author"
+  uri: http://homepages.inf.ed.ac.uk/s1055423/
+  email: v.radu@sms.ed.ac.uk
+  twitter: "@vradu10"
