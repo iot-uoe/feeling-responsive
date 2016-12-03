@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Second LoPy Workshop"
-teaser: "Second LoPy Workshop - Hands-on IoT Communication"
+teaser: "Second LoPy Workshop &mdash; Hands-on IoT Communication with LoRa"
 breadcrumb: false
 tags:
     - LoPy
@@ -18,20 +18,20 @@ show_meta: false
 ---
 
 
-On Thursday, 1st December 2016, we run our second workshop on LoRa technology. Following the success of our [previous event](http://iot.ed.ac.uk/2016/10/lopy-workshop-report/), this time at the uCreate Studio, University of Edinburgh Main Library, we were joined by an enthusiastic group of 14 students (we appreciate [CompSoc](http://comp-soc.com/)’s support on advertising this event) and more mature tech savvy learners.
+Following the success of our [previous LoPy workshop]({{ site.url }}/2016/10/lopy-workshop-report/), we ran our second workshop on LoRa technology on Thursday 1st December 2016, this time at the uCreate Studio, University of Edinburgh Main Library. We were joined by an enthusiastic group of 14 students (we appreciate [CompSoc](http://comp-soc.com/)’s support in advertising this event) and more mature tech-savvy learners.
 
 ![]({{ site.urlimg }}workshop2/IMG_20161201_103843_2.jpg)
 
-In this session we explored communication between [LoPy devices](https://www.pycom.io/solutions/py-boards/lopy/). Following an introductory presentation of LoRaWAN and the vision for this to take shape in Edinburgh, we dived into the first exercise programming a LoPy device to transmit messages using LoRa, acknowledged by a LED flash. These messages were received by a central LoPy to display them on a large monitor for the whole group. We don’t remember exactly which team was first to transmitted their message - we believe that was team 6, congrats! Everyone was fast to master this task, set apart only by a photo-finish.
+In this session we explored communication between [LoPy devices](https://www.pycom.io/solutions/py-boards/lopy/). Following an introductory presentation of LoRaWAN by Simon, and his vision for a community-based [The Things Network](https://www.thethingsnetwork.org) across Edinburgh, we dived into the first exercise: programming a LoPy device to send messages using LoRa, flashing an LED to indicate transmision. These messages were received by a central LoPy node which displayed them on a large monitor for the whole group to see. We don’t remember exactly which team was first to transmitt their message, we believe it was Team 6, congrats! Everyone was fast to master this task, with winners separated only by a photo-finish.
 
 ![]({{ site.urlimg }}workshop2/IMG_20161201_110125_2.jpg)
 
-Now that all teams could transmit messages, the second task was to extend device functionality to also receiving messages. These could now transmit and receive messages between each other, and acknowledge the event by flashing different colour LEDs. As Simon accurately described it, we turned the room into a massive X-mas tree with multicolour lights.
+Once all teams could transmit messages, the second task was to extend device functionality to also receive messages. As a result, the LoPys could exchange messages with each other and acknowledge the event by flashing different coloured LEDs. As Simon accurately described it, we turned the room into a massive Xmas tree with multicolour lights.
 
 ![]({{ site.urlimg }}workshop2/IMG_20161201_115842_2.jpg)
 
-The last task was to connect a light sensor to the LoPy device and transmit the sensor readings between teams. It was a great sunny day outside so we could see differences between light readings throughout the room. Very precious Lux for Scotland and we got to measure them properly - we’ll probably need to wait until next year’s summer to exceed this 1450 Lux value :)
+The last task was to connect a light sensor to the LoPy device and transmit the sensor readings between teams. It was a great sunny day outside so we could see differences between light readings throughout the room. Very precious Lux for Scotland and we got to measure them properly &mdash; we’ll probably need to wait until next year’s summer to exceed this 1450 Lux value :)
 
 ![]({{ site.urlimg }}workshop2/IMG_20161201_115235_2.jpg)
 
-We got some positive feedbacks and sparked very interesting discussions about the potential for this technology. Busses, remote controls, who knows?! - the sky is the limit! This encourages us to continue this series of event. Sign up to our [email list](https://mlist.is.ed.ac.uk/lists/subscribe/iot) to be informed about our next event to take place in the New Year!
+The workshop received  positive feedback fron participants and sparked off very interesting discussions about the potential for this technology. Busses, remote controls, who knows?! &mdash; the sky is the limit! This encourages us to continue this series of events. Sign up to our [email list](https://mlist.is.ed.ac.uk/lists/subscribe/iot) to be informed about our next event to take place early in the New Year. And keep an eye out for the [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) programme!
