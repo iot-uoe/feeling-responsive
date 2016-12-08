@@ -38,7 +38,14 @@ Another participant was about to complete his studies in Computer Science but wa
  
 After lunch, everyone went back to the iLab to begin working on connecting light sensors to the LoPys. By the end of the afternoon, most groups had managed this successfully, and those that were still trying stayed on past the end of the scheduled time for the workshop. 
 
-Reflecting on why he came to the workshop, a participant who is a self-employed entrepreneur said, "I have very many ideas. My priority goes to renewable energy ideas, most of which are IoT ideas. Most of my ideas are evolving around IoT." He especially appreciated the opportunity to experiment with the LoPy, which offers more connectivity for less expense than the modules currently available to him on the Kenyan market.
+Reflecting on why he came to the workshop, a participant who is a self-employed entrepreneur said, "I have very many ideas. My priority goes to renewable energy ideas, most of which are IoT ideas. Most of my ideas are evolving around IoT." He especially appreciated the opportunity to experiment with the LoPy, which offers more connectivity for less expense than the modules currently available to him on the Kenyan market. He was among a number of the participants who decided to stay on and develop ideas and prototypes for applications in energy at the energy data hackathon over the weekend. 
+<!-- Read more about the ideas that he and others came up with here [link to be added]. -->
+
+All in all, the workshop was a great success, allowing the participants to discover and experiment with new technology and allowing everyone from participants to organisers to make connections and build relationships that will hopefully lead to more in-depth collaborations in the future and will allow enthusiasts in both .
+ These relationships will help us to 
+Pycom's generous support for the event was invaluable. The 
+As we build and develop our IoT Initiative at Edinburgh, th
+As develops in the UK and Kenya.There is an excellent opportunity to observe, explore and learn from each other 
 
 
 
