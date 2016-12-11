@@ -49,7 +49,11 @@ After lunch, everyone went back to the iLab to begin working on connecting light
 ![]({{ site.urlimg }}/nairobi-iot-workshop/troubleshooting.jpg)
 *Roberto Marques from Pycom helps participants troubleshoot the light sensor*
 
-Reflecting on why he came to the workshop, a participant who is a self-employed entrepreneur said, "I have very many ideas. My priority goes to renewable energy ideas, most of which are IoT ideas. Most of my ideas are evolving around IoT." He especially appreciated the opportunity to experiment with the LoPy, which offers more connectivity for less expense than the modules currently available to him on the Kenyan market. He was among a number of the participants who decided to stay on and develop ideas and prototypes for applications in energy at the energy data hackathon over the weekend. 
+Reflecting on why he came to the workshop, a participant who is a self-employed entrepreneur said, 
+
+> I have very many ideas. My priority goes to renewable energy ideas, most of which are IoT ideas. Most of my ideas are evolving around IoT.
+
+He especially appreciated the opportunity to experiment with the LoPy, which offers more connectivity for less expense than the modules currently available to him on the Kenyan market. He was among a number of the participants who decided to stay on and develop ideas and prototypes for applications in energy at the energy data hackathon over the weekend. 
 <!-- Read more about the ideas that he and others came up with here [link to be added]. -->
 
 All in all, the workshop was a great success, giving the participants an oppportunity to discover and experiment with new technology and allowing everyone from participants to organisers to make connections, build relationships and learn from each other. Hopefully this will lead to more in-depth collaborations in the future between Edinburgh and Nairobi.
