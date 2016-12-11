@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Second LoPy Workshop"
-teaser: "Second LoPy Workshop &mdash; Hands-on IoT Communication with LoRa"
+teaser: "Hands-on IoT Communication with LoRa"
 breadcrumb: false
 tags:
     - LoPy
