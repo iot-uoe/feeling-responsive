@@ -7,6 +7,6 @@ header:
 permalink: "/info/"
 ---
 
-This website is still under development. Contributions by Ewan Klein, Simon Chapple and 
+This website is still under development. Contributions by Ewan Klein, Simon Chapple, Valentin Radu and 
 Sam Wilson.
 

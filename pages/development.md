@@ -10,6 +10,12 @@ permalink: "/development/"
 
 We are in the process of installing [Kerlink](http://www.kerlink.fr/en/) gateways at up to five sites across the University campus. In the first instance, data sent to the gateways will be accessed via [The Things Network](https://www.thethingsnetwork.org).
 
+The first of these gateways was installed on the library at Kings Buildings at the start of December 2016.
+
+![]({{ site.urlimg }}/kerlink-kb.jpg)
+
+<hr/>
+
 <div class="row t30">
     <div class="small-12 columns">
         <img src="{{ site.urlimg }}gateways.jpg" alt="">

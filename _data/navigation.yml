@@ -27,6 +27,10 @@
   url: "/blog/"
   side: left 
 
+- title: "IoT Challenge"
+  url: "/iotchallenge/"
+  side: left
+
 
 # - title: "Contact"
 #   url: "/contact/"
