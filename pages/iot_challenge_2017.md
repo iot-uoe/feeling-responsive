@@ -8,7 +8,7 @@ header:
 permalink: "/iotchallenge/"
 ---
 
-The **IoT Challenge** is a 5-day event during the University of Edinburgh's [Festival of Creative Learning](hhttp://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
+The **IoT Challenge** is a 5-day hackathon (20&ndash;24 February 2017) during the University of Edinburgh's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
 
 The University is [establishing a pilot IoT network using LoRaWAN technology]({{ site.url }}/development). The network will allow multiple devices and sensors to send data to a backend server which can then feed this information into user-facing applications and services. The network and a pool of devices + sensors will be made available to you as one of the first sets of early-adopters. We are encouraging multi-disciplinary teams with a mix of skills in design, business, hardware / software engineering and data science to develop exciting new products and services!
 

@@ -4,7 +4,7 @@ subheadline: Meetup
 title:  "IOT//EDI (IoT + Blockchain)"
 categories:
     - events
-venue: "Design Informatics Studio, Evolution House"
+venue: design-informatics
 start_time: 2016-10-28 18:15
 end_time: 2016-10-28 21:15
 registration: http://www.meetup.com/iotScotland/events/232801752/
