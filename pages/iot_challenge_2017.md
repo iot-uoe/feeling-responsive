@@ -35,8 +35,11 @@ It's happening  Monday 20th &ndash; Friday 25th February 2017. The first day wil
 <br/>
 
 
-#Sponsors
+<center><h1>Sponsors</h1>
 
 <br/>
-[![Pycom]({{ site.urlimg }}/pycom-logo.png)](https://www.pycom.io/)
+<br/>
 
+<a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a>
+
+</center>
