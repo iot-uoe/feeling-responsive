@@ -4,11 +4,31 @@ title: 'Argyle House'
 image: 
     title: argh-mono.jpg
     thumb: argh-thumb.jpg
-teaser: "Tracking occupancy in meeting rooms used by Information Services"
+teaser: "Monitoring environment and occupancy in meeting rooms"
 ---
 
-The pilot involves installing Estimote beacons on chairs in eight large 'public' spaces on the floors of Argyle House that are occupied by the University's Information Services. The beacons contain heat sensors and accelerometers, and will provide data about whether a chair is being used. The data from groups of chairs will be sent via [Bluetooth low energy (BLE)](https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy) to a Sensor Hub, which will integrate the data and send it via ethernet for further processing. 
+The pilot is starting in February 2017, and deploys sensors and wireless devices to enable environmental and space occupancy monitoring. None of these sensors will capture any personal data.
 
-There will be a total of 83 hubs and 140 chair sensor kits. This project is likely to start in February 2017.
+The pilot will allow us to build and demonstrate our capability with IoT infrastructure, as well as giving us an understanding of how the environment in Argyle House performs.   One of the outcomes of the pilot will be evidence to help underpin future choices in provisioning meeting room facilities.
+
+<h2>Meeting Room Occupancy</h2>
+
+We will attach a small sensor (an Estimote beacon) to each chair and the entrance door in eight meeting rooms to measure temperature, light level and movement. This will give us a view of occupancy levels for each meeting room.   The sensors will communicate via Bluetooth to a small sensor hub in the room, which will then send data using LoRa radio to a dedicated LoRa gateway receiver. There will be a notice posted in each meeting room where the sensors are deployed.
+
+<div class="t60">
+    <ul class="clearing-thumbs small-block-grid-2" data-clearing>   
+        <li><img src="{{ site.urlimg }}/red-estimote.jpg"></li>
+        <li><img src="{{ site.urlimg }}/ah-doorsign.jpg"></li>
+          
+    </ul>
+</div>
+
+<h2>Environmental monitoring</h2>
+
+In addition to the occupancy monitoring, on two floors we will place wireless LoRa devices with sensors for heat, atmospheric pressure, and humidity, one of which will also include a particulate sensor.
+
+
+
+
 
 

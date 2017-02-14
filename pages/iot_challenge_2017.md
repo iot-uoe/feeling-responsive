@@ -10,26 +10,32 @@ permalink: "/iotchallenge/"
 
 The **IoT Challenge** is a 5-day hackathon (20&ndash;24 February 2017) during the University of Edinburgh's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
 
-The University is [establishing a pilot IoT network using LoRaWAN technology]({{ site.url }}/development). The network will allow multiple devices and sensors to send data to a backend server which can then feed this information into user-facing applications and services. The network and a pool of devices + sensors will be made available to you as one of the first sets of early-adopters. We are encouraging multi-disciplinary teams with a mix of skills in design, business, hardware / software engineering and data science to develop exciting new products and services!
+
 
 The IoT Challenge is hosted by the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics/) in partnership with [Information Services](http://www.ed.ac.uk/information-services).
 <!-- , [The School of Social and Political Sciences](http://www.sps.ed.ac.uk), [The Global Development Academy](http://www.ed.ac.uk/schools-departments/global-development)  
 and [Edinburgh Living Lab](hgttp://edinburghlivinglab.org)
 -->
-Following the pattern of the very sucessful [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
+
+<h2 class="b30" align="center">During the week</h2>
+We are encouraging multi-disciplinary teams with a mix of design, business, software engineering and data science skills to develop exciting new products and services. There will be an opportunity to test and deploy your project on the University’s new IoT network.
+
+Teams will be pre-selected by the organisers and at the start of the week you will hear from a number of Challenge Holders who will pitch their project ideas. Each team will be required to undertake two of these challenges and present their solutions at the end of the week.
+
+<h2 class="b30" align="center">What happens after the week?</h2>
+
+There are many IoT related programs and activities to help support the research, development and commercialization of IoT platforms. If you would like to continue developing your IoT product or service, there are opportunities to connect into other initiatives that could allow you to take your idea forward. The organisers running the event will support you, but ultimately it is up to you and/or team to make the most of these opportunities.
 
 
 
-<!-- Schedule -->
 
-<div align="center">
-<br/>
-<table cellpadding="10" cellspacing="10" border="1"> 
+<h2 align="center">Schedule</h2>
+
+
+<div class="t30" align="center">
+
+<table width="100%" cellpadding="10" cellspacing="10" border="1"> 
 <tbody>
-<tr>
-<td colspan="3" valign="top" style="color:#993597" style="text-align:center;"><b>Edinburgh IoT Challenge - Schedule </b></td>
-</tr>
-
 <tr>
 <td style="background-color:#3a5ba8;color:#ffffff;" colspan="2" valign="top" ><b>Monday 20th February </b></td>
 <td valign="top" ><b>Location </b></td>
@@ -198,7 +204,7 @@ Following the pattern of the very sucessful [Smart Data Hack](http://smartdataha
 <tr>
 <td valign="top" style="color:#c9205b;"><b>12.00 pm</b></td>
 <td valign="top" style="color:#c9205b;"><b>Final Presentation Submission &amp; Lunch</b></td>
-<td rowspan="6" valign="top" ><b>Ground Floor, Informatics Forum, Crichton Street </b></td>
+<td rowspan="6" valign="top" ><b>G.07, Ground Floor, Informatics Forum, Crichton Street </b></td>
 </tr>
 
 <tr>
@@ -227,35 +233,29 @@ Following the pattern of the very sucessful [Smart Data Hack](http://smartdataha
 </tr>
 </tbody>
 </table>
-
 </div>
 
+<h2 class="b30" align="center">Sponsors</h2>
 
+Following the pattern of the very sucessful [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
 
+<div class="t60">
+    <ul class="clearing-thumbs small-block-grid-3" data-clearing>   
+        <li><a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a></li>
+        <li><a href="http://www.edinburgh.gov.uk/"><img src="{{ site.urlimg }}/edinburgh-city-council.png"></a></li>
+        <li><a href="http://www.ed.ac.uk/information-services/"><img src="{{ site.urlimg }}/is-logo.png"></a></li>       
+    </ul>
+</div>
 
-<!-- Register button -->
-<div class="row t60">
+<h2 class="b30" align="center">Registration</h2>
+
+Registration is officially full, but we are maintaing a waitlist in case of cancellations.
+
+<div class="row t30">
         <div class="small-12 text-center columns">
             <a class="button large radius" href="https://www.events.ed.ac.uk/index.cfm?event=book&scheduleId=23205" target="_blank" >
-            Sign Up Now
+            Get on Waitlist
             </a>
-        </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+        </div>
+</div> 
 
-<br/>
-<br/>
-
-
-<center><h1>External Sponsors</h1>
-
-<br/>
-<br/>
-
-<a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a>
-<br/>
-<br/>
-<br/>
-<br/>
-<a href="http://www.edinburgh.gov.uk/"><img src="{{ site.urlimg }}/edinburgh-city-council.png"></a>
-
-</center>
