@@ -13,9 +13,7 @@ The **IoT Challenge** is a 5-day hackathon (20&ndash;24 February 2017) during th
 
 
 The IoT Challenge is hosted by the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics/) in partnership with [Information Services](http://www.ed.ac.uk/information-services).
-<!-- , [The School of Social and Political Sciences](http://www.sps.ed.ac.uk), [The Global Development Academy](http://www.ed.ac.uk/schools-departments/global-development)  
-and [Edinburgh Living Lab](hgttp://edinburghlivinglab.org)
--->
+
 
 <h2 class="b30" align="center">During the week</h2>
 We are encouraging multi-disciplinary teams with a mix of design, business, software engineering and data science skills to develop exciting new products and services. There will be an opportunity to test and deploy your project on the University’s new IoT network.
@@ -26,15 +24,11 @@ Teams will be pre-selected by the organisers and at the start of the week you wi
 
 There are many IoT related programs and activities to help support the research, development and commercialization of IoT platforms. If you would like to continue developing your IoT product or service, there are opportunities to connect into other initiatives that could allow you to take your idea forward. The organisers running the event will support you, but ultimately it is up to you and/or team to make the most of these opportunities.
 
-
-
-
 <h2 align="center">Schedule</h2>
-
 
 <div class="t30" align="center">
 
-<table width="100%" cellpadding="10" cellspacing="10" border="1"> 
+<table width="100%" cellpadding="10" cellspacing="10" border="0"> 
 <tbody>
 <tr>
 <td style="background-color:#3a5ba8;color:#ffffff;" colspan="2" valign="top" ><b>Monday 20th February </b></td>
