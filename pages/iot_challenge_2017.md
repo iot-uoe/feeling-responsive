@@ -37,8 +37,8 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td valign="top" ><b>10.00 am </b></td>
-<td valign="top" ><b>Introductory briefing to IoT - </b>Simon Chapple</td>
-<td rowspan="8" valign="top" ><b>Argyle House, Lady Lawson Street </b></td>
+<td valign="top" ><b>Introductory briefing to IoT &mdash; </b>Simon Chapple</td>
+<td rowspan="8" valign="top" ><b>Meeting Room 6, Floor E, Argyle House, West Port</b></td>
 </tr>
 
 <tr>
@@ -58,12 +58,12 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td valign="top" ><b>2.00 pm </b></td>
-<td valign="top" ><b>Introduction to MicroPython</b> - Daniel Campora </td>
+<td valign="top" ><b>Introduction to MicroPython</b> &mdash; Daniel Campora </td>
 </tr>
 
 <tr>
 <td valign="top" ><b>3.30 pm </b></td>
-<td valign="top" ><b>User Centred Design Workshop</b> - Ella Tallyn </td>
+<td valign="top" ><b>User Centred Design Workshop</b>&mdash;  Ella Tallyn </td>
 </tr>
 
 <tr>
@@ -78,7 +78,7 @@ There are many IoT related programs and activities to help support the research,
 
 <tr >
 <td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Tuesday 21st February </b></td>
-<td rowspan="13" valign="top" ><b>UCreate Studio, George Square Library </b></td>
+<td rowspan="13" valign="top" ><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
 </tr>
 
 <tr>
@@ -88,12 +88,12 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td valign="top" ><b>9.30 am </b></td>
-<td valign="top" ><b>Business Models for IoT</b> - Craig Fleming </td>
+<td valign="top" ><b>Business Models for IoT</b>&mdash;  Craig Fleming </td>
 </tr>
 
 <tr>
 <td valign="top" ><b>10.30 am </b></td>
-<td valign="top" ><b>Technical Workshop</b> - Simon Chapple </td>
+<td valign="top" ><b>Technical Workshop</b>&mdash;  Simon Chapple </td>
 </tr>
 
 <tr style="color:#c9205b;">
@@ -108,7 +108,7 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td valign="top" ><b>5.30 pm </b></td>
-<td valign="top" >UCreate Studio Closes </td>
+<td valign="top" >uCreate Studio Closes </td>
 </tr>
 
 <tr>
@@ -143,7 +143,7 @@ There are many IoT related programs and activities to help support the research,
 <tr>
 <td valign="top" style="color:#c92020;"><b>5.00 pm </b></td>
 <td valign="top" style="color:#c92020;"><b>Mid-Point Progress Update &amp; Pizza </b></td>
-<td rowspan="2" valign="top" ><b>Mini-Forum 2, Informatics Forum Crichton Street</b></td>
+<td rowspan="2" valign="top" ><b>Mini-Forum 2, Informatics Forum, 10 Crichton Street</b></td>
 </tr>
 
 <tr>
@@ -153,7 +153,7 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Thursday 22nd February</b></td>
-<td rowspan="9" valign="top" style="background-color:#ffffff;"><b>UCreate Studio, George Square Library </b></td>
+<td rowspan="9" valign="top" style="background-color:#ffffff;"><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
 </tr>
 
 <tr>
@@ -198,7 +198,7 @@ There are many IoT related programs and activities to help support the research,
 <tr>
 <td valign="top" style="color:#c9205b;"><b>12.00 pm</b></td>
 <td valign="top" style="color:#c9205b;"><b>Final Presentation Submission &amp; Lunch</b></td>
-<td rowspan="6" valign="top" ><b>G.07, Ground Floor, Informatics Forum, Crichton Street </b></td>
+<td rowspan="6" valign="top" ><b>G.07, Ground Floor, Informatics Forum, 10 Crichton Street </b></td>
 </tr>
 
 <tr>
@@ -231,7 +231,7 @@ There are many IoT related programs and activities to help support the research,
 
 <h2 class="b30" align="center">Sponsors</h2>
 
-Following the pattern of the very sucessful [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
+Following the pattern of the [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
 
 <div class="t60">
     <ul class="clearing-thumbs small-block-grid-3" data-clearing>   
