@@ -38,7 +38,7 @@ There are many IoT related programs and activities to help support the research,
 <tr>
 <td valign="top" ><b>10.00 am </b></td>
 <td valign="top" ><b>Introductory briefing to IoT &mdash; </b>Simon Chapple</td>
-<td rowspan="8" valign="top" ><b>Meeting Room 6, Floor E, Argyle House, West Port</b></td>
+<td rowspan="8" valign="top" style="background-color:#ffffff;"><b>Meeting Room 6, Floor E, Argyle House, West Port</b></td>
 </tr>
 
 <tr>
@@ -78,7 +78,7 @@ There are many IoT related programs and activities to help support the research,
 
 <tr >
 <td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Tuesday 21st February </b></td>
-<td rowspan="13" valign="top" ><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
+<td rowspan="7" valign="top" style="background-color:#ffffff;"><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
 </tr>
 
 <tr>
@@ -113,6 +113,7 @@ There are many IoT related programs and activities to help support the research,
 
 <tr>
 <td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Wednesday 22nd February</b></td>
+<td rowspan="6" valign="top" style="background-color:#ffffff;"><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
 </tr>
 
 <tr>
@@ -143,7 +144,7 @@ There are many IoT related programs and activities to help support the research,
 <tr>
 <td valign="top" style="color:#c92020;"><b>5.00 pm </b></td>
 <td valign="top" style="color:#c92020;"><b>Mid-Point Progress Update &amp; Pizza </b></td>
-<td rowspan="2" valign="top" ><b>Mini-Forum 2, Informatics Forum, 10 Crichton Street</b></td>
+<td rowspan="2" valign="top" style="background-color:#ffffff;"><b>Mini-Forum 2, Informatics Forum, 10 Crichton Street</b></td>
 </tr>
 
 <tr>
@@ -198,7 +199,7 @@ There are many IoT related programs and activities to help support the research,
 <tr>
 <td valign="top" style="color:#c9205b;"><b>12.00 pm</b></td>
 <td valign="top" style="color:#c9205b;"><b>Final Presentation Submission &amp; Lunch</b></td>
-<td rowspan="6" valign="top" ><b>G.07, Ground Floor, Informatics Forum, 10 Crichton Street </b></td>
+<td rowspan="6" valign="top" style="background-color:#ffffff;"><b>G.07, Ground Floor, Informatics Forum, 10 Crichton Street </b></td>
 </tr>
 
 <tr>
@@ -237,9 +238,17 @@ Following the pattern of the [Smart Data Hack](http://smartdatahack.org), we wil
     <ul class="clearing-thumbs small-block-grid-3" data-clearing>   
         <li><a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a></li>
         <li><a href="http://www.edinburgh.gov.uk/"><img src="{{ site.urlimg }}/edinburgh-city-council.png"></a></li>
-        <li><a href="http://www.ed.ac.uk/information-services/"><img src="{{ site.urlimg }}/is-logo.png"></a></li>       
+        <li><a href="http://www.ed.ac.uk/information-services/"><img src="{{ site.urlimg }}/is-logo.png"></a></li>     
     </ul>
+
+    <ul class="clearing-thumbs small-block-grid-2">   
+        <li><a href="http://www.sciencefestival.co.uk/"><img style="padding: 0px 10px 5px 10px;" src="{{ site.urlimg }}/festival.jpg"></a></li>
+        <li><a href="http://transportforedinburgh.com/"><img style="padding: 40px 0px 5px 10px;"   src="{{ site.urlimg }}/transportforedinburgh.jpg"></a></li>
+    </ul>
+
 </div>
+
+
 
 <h2 class="b30" align="center">Registration</h2>
 
