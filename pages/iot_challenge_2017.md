@@ -153,7 +153,7 @@ There are many IoT related programs and activities to help support the research,
 </tr>
 
 <tr>
-<td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Thursday 22nd February</b></td>
+<td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Thursday 23rd February</b></td>
 <td rowspan="9" valign="top" style="background-color:#ffffff;"><b>uCreate Studio (Room 1.12), 1st Floor, Main Library, George Square</b></td>
 </tr>
 
@@ -183,7 +183,7 @@ There are many IoT related programs and activities to help support the research,
 </tr>
 
 <tr>
-<td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Friday 23rd February </b></td>
+<td colspan="2" valign="top" style="background-color:#3a5ba8;color:#ffffff;"><b>Friday 24th February </b></td>
 </tr>
 
 <tr>
