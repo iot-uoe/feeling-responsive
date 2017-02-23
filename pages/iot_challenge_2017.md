@@ -305,6 +305,8 @@ Our project examines ways that Transport for Edinburgh can more efficiently coll
 
 ### Team **Flow**
 
+Our project is using smart IoT route-detection technology to improve commute safety by informing car drivers about the presence of cyclists and pedestrians. The same data can also help with direction prediction and with informing city traffic management systems; for example, about when to change traffic lights when vehicles are queing.
+
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
@@ -321,6 +323,8 @@ Our project examines ways that Transport for Edinburgh can more efficiently coll
 </div>
 
 ### Team **Tyr**
+
+Understanding Movement: Pedestrian Movement
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
