@@ -318,7 +318,7 @@ Our project is using smart IoT route-detection technology to improve commute saf
     
   </ul>
 
- <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+<a class="button small" href="https://github.com/ondrejbohdal/iot-challenge-flow/" target="_blank">Project GitHub Repo</a>  <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
 
 </div>
 
