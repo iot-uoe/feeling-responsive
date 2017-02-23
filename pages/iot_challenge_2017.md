@@ -7,26 +7,37 @@ header:
    title: "iot.ed.ac.uk"
 permalink: "/iotchallenge/"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+## Overview
 
 The **IoT Challenge** is a 5-day hackathon (20&ndash;24 February 2017) during the University of Edinburgh's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
-
-
 
 The IoT Challenge is hosted by the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics/) in partnership with [Information Services](http://www.ed.ac.uk/information-services).
 
 
-<h2 class="b30" align="center">During the week</h2>
+## During the week
 We are encouraging multi-disciplinary teams with a mix of design, business, software engineering and data science skills to develop exciting new products and services. There will be an opportunity to test and deploy your project on the University’s new IoT network.
 
 Teams will be pre-selected by the organisers and at the start of the week you will hear from a number of Challenge Holders who will pitch their project ideas. Each team will be required to undertake two of these challenges and present their solutions at the end of the week.
 
-<h2 class="b30" align="center">What happens after the week?</h2>
+## What happens after the week?
 
 There are many IoT related programs and activities to help support the research, development and commercialization of IoT platforms. If you would like to continue developing your IoT product or service, there are opportunities to connect into other initiatives that could allow you to take your idea forward. The organisers running the event will support you, but ultimately it is up to you and/or team to make the most of these opportunities.
 
-<h2 align="center">Schedule</h2>
+## Schedule
 
-<div class="t30" align="center">
+
 
 <table width="100%" cellpadding="10" cellspacing="10" border="0"> 
 <tbody>
@@ -228,9 +239,9 @@ There are many IoT related programs and activities to help support the research,
 </tr>
 </tbody>
 </table>
-</div>
 
-<h2 class="b30" align="center">Sponsors</h2>
+
+## Sponsors
 
 Following the pattern of the [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
 
@@ -250,7 +261,7 @@ Following the pattern of the [Smart Data Hack](http://smartdatahack.org), we wil
 
 
 
-<h2 class="b30" align="center">Registration</h2>
+## Registration
 
 Registration is officially full, but we are maintaing a waitlist in case of cancellations.
 
