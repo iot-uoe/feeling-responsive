@@ -35,9 +35,32 @@ Teams will be pre-selected by the organisers and at the start of the week you wi
 
 There are many IoT related programs and activities to help support the research, development and commercialization of IoT platforms. If you would like to continue developing your IoT product or service, there are opportunities to connect into other initiatives that could allow you to take your idea forward. The organisers running the event will support you, but ultimately it is up to you and/or team to make the most of these opportunities.
 
+## Sponsors and Challenges
+
+We are grateful to our sponsors for providing financial support, challenges and prizes.
+
+<div class="t20">
+    <ul class="clearing-thumbs small-block-grid-3" data-clearing>   
+        <li><a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a></li>
+        <li><a href="http://www.edinburgh.gov.uk/"><img src="{{ site.urlimg }}/edinburgh-city-council.png"></a></li>
+        <li><a href="http://www.ed.ac.uk/information-services/"><img src="{{ site.urlimg }}/is-logo.png"></a></li>     
+    </ul>
+
+    <ul class="clearing-thumbs small-block-grid-2">   
+        <li><a href="http://www.sciencefestival.co.uk/"><img style="padding: 0px 10px 5px 10px;" src="{{ site.urlimg }}/festival.jpg"></a></li>
+        <li><a href="http://transportforedinburgh.com/"><img style="padding: 40px 0px 5px 10px;"   src="{{ site.urlimg }}/transportforedinburgh.jpg"></a></li>
+    </ul>
+
+</div>
+
+### Challenges
+
+* Transport for Edinburgh: *What are key gaps in data needed to inform transport policy and how could we use IoT to help fill those gaps*?
+* The Science Festival: *How can we develop ways of (i) improving the visitor experience in Edinburgh Festivals, and/or (ii) collecting better feedback from visitors about events*?
+* Pycom: *What uses of IoT could best enhance the student experience*?
+* City of Edinburgh Council: *How can we gain an understanding of mobility (e.g., cars, bikes, pedestrians*) without using mobile tracking techniques?
+
 ## Schedule
-
-
 
 <table width="100%" cellpadding="10" cellspacing="10" border="0"> 
 <tbody>
@@ -240,27 +263,83 @@ There are many IoT related programs and activities to help support the research,
 </tbody>
 </table>
 
+## The Project Teams
 
-## Sponsors
+### Team **5 Chords**
 
-Following the pattern of the [Smart Data Hack](http://smartdatahack.org), we will be working with a number of organisations to provide challenges and prizes.
+We have taken on the Science Festival challenge, specifically with the goal of improving user experience and feedback. Using microphones we will track the level of sound that people make during an event to gauge how engaged and excited they are. We are working on how to visualising the sound data in a way that is useful for an event organiser.
 
-<div class="t60">
-    <ul class="clearing-thumbs small-block-grid-3" data-clearing>   
-        <li><a href="https://www.pycom.io/"><img src="{{ site.urlimg }}/pycom-logo.png"></a></li>
-        <li><a href="http://www.edinburgh.gov.uk/"><img src="{{ site.urlimg }}/edinburgh-city-council.png"></a></li>
-        <li><a href="http://www.ed.ac.uk/information-services/"><img src="{{ site.urlimg }}/is-logo.png"></a></li>     
-    </ul>
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Aliaksei Laurynovitch (Coordinator)</li>
+    <li>Zichen Yin</li>
+    <li>Adela Rotar</li>
+    <li>Afshi Sabahi Khorashahi</li>
+    <li>Dalimel Hajek</li>
+    
+  </ul>
 
-    <ul class="clearing-thumbs small-block-grid-2">   
-        <li><a href="http://www.sciencefestival.co.uk/"><img style="padding: 0px 10px 5px 10px;" src="{{ site.urlimg }}/festival.jpg"></a></li>
-        <li><a href="http://transportforedinburgh.com/"><img style="padding: 40px 0px 5px 10px;"   src="{{ site.urlimg }}/transportforedinburgh.jpg"></a></li>
-    </ul>
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Transport for DDNAC**
+
+Our project examines ways that Transport for Edinburgh can more efficiently collect  data about people travelling in the area. We are looking at a variety of different methods of tracking people including using NFC tickets and motion sensors to detect when people enter or exit a public transport vehicle.
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Agnieszka Wasikowska (Coordinator)</li>
+    <li>Nikolay Momchev</li>
+    <li>Duncan Guthrie</li>
+    <li>Junyi Li</li>
+    <li>Cameron MacLeod</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Flow**
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Catherine Wang (Coordinator)</li>
+    <li>Ondrej Bohdal </li>
+    <li>Wojciech Nawrocki</li>
+    <li>Daniel Li</li>
+    <li>Yining Zhou</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Tyr**
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>James Guyer (Coordinator)</li>
+    <li>Jimhong Lu</li>
+    <li>Elliot Gilmour</li>
+    <li>Alistair Greaves</li>
+    <li>Levi Fussell</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
 
 </div>
 
 
 
+
+<!-- 
 ## Registration
 
 Registration is officially full, but we are maintaing a waitlist in case of cancellations.
@@ -271,5 +350,5 @@ Registration is officially full, but we are maintaing a waitlist in case of canc
             Get on Waitlist
             </a>
         </div>
-</div> 
+</div>  -->
 
