@@ -324,7 +324,11 @@ Our project is using smart IoT route-detection technology to improve commute saf
 
 ### Team **Tyr**
 
-Understanding Movement: Pedestrian Movement
+
+Our team is working on two projects. The first is an SMS based systems that allows attendees to submit questions to event organizers and receive responses. The texts are ranked and displayed by importance and filtered for spam or offensive language. An included chatbot completes responses for frequently asked questions. 
+
+The second involves the use of the LoPy to collect anonymous  on movement patterns. Software is being designed to utilize the LoPy’s ability to generate and communicate this data to a server over a long range. A model on the server side has been developed to illustrate usefulness of the dataset by detecting movement patterns.
+
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
