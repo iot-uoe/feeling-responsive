@@ -139,7 +139,7 @@ Project 2, Uturn, uses LoPy devices to collect anonymous data about movement pat
     
   </ul>
 <ul class="button-group">
- <li><a class="button" href="http://uturn.atspace.cc" target="_blank">TIME2TALK</a></li>
+ <li><a class="button" href="http://time2talk.atspace.co.uk/" target="_blank">TIME2TALK</a></li>
  <li><a class="button" href="http://uturn.atspace.cc" target="_blank">Uturn</a></li>
  <li><a class="button info" href="https://github.com/levifussell/TYR" target="_blank">GitHub Repo</a></li>
  </ul>
