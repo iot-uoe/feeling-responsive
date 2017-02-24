@@ -60,6 +60,89 @@ We are grateful to our sponsors for providing financial support, challenges and 
 * Pycom: *What uses of IoT could best enhance the student experience*?
 * City of Edinburgh Council: *How can we gain an understanding of mobility (e.g., cars, bikes, pedestrians*) without using mobile tracking techniques?
 
+
+
+## The Project Teams
+
+### Team **5 Chords**
+
+We have taken on the Science Festival challenge, specifically with the goal of improving user experience and feedback. Using microphones we will track the level of sound that people make during an event to gauge how engaged and excited they are. We are working on how to visualising the sound data in a way that is useful for an event organiser.
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Aliaksei Laurynovitch (Coordinator)</li>
+    <li>Zichen Yin</li>
+    <li>Adela Rotar</li>
+    <li>Afshi Sabahi Khorashahi</li>
+    <li>Dalimel Hajek</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Transport for DDNAC**
+
+Our project examines ways that Transport for Edinburgh can more efficiently collect  data about people travelling in the area. We are looking at a variety of different methods of tracking people including using NFC tickets and motion sensors to detect when people enter or exit a public transport vehicle.
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Agnieszka Wasikowska (Coordinator)</li>
+    <li>Nikolay Momchev</li>
+    <li>Duncan Guthrie</li>
+    <li>Junyi Li</li>
+    <li>Cameron MacLeod</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Flow**
+
+Our project is using smart IoT route-detection technology to improve commute safety by informing car drivers about the presence of cyclists and pedestrians. The same data can also help with direction prediction and with informing city traffic management systems; for example, about when to change traffic lights when vehicles are queing.
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>Catherine Wang (Coordinator)</li>
+    <li>Ondrej Bohdal </li>
+    <li>Wojciech Nawrocki</li>
+    <li>Daniel Li</li>
+    <li>Yining Zhou</li>
+    
+  </ul>
+
+<a class="button small" href="https://github.com/ondrejbohdal/iot-challenge-flow/" target="_blank">Project GitHub Repo</a>  <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
+### Team **Tyr**
+
+
+Our team is working on two projects. The first is an SMS based systems that allows attendees to submit questions to event organizers and receive responses. The texts are ranked and displayed by importance and filtered for spam or offensive language. An included chatbot completes responses for frequently asked questions. 
+
+The second involves the use of the LoPy to collect anonymous  on movement patterns. Software is being designed to utilize the LoPy’s ability to generate and communicate this data to a server over a long range. A model on the server side has been developed to illustrate usefulness of the dataset by detecting movement patterns.
+
+<div class="panel">
+  <h5>Team Members</h5>
+  <ul>
+    <li>James Guyer (Coordinator)</li>
+    <li>Jimhong Lu</li>
+    <li>Elliot Gilmour</li>
+    <li>Alistair Greaves</li>
+    <li>Levi Fussell</li>
+    
+  </ul>
+
+ <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+
+</div>
+
 ## Schedule
 
 <table width="100%" cellpadding="10" cellspacing="10" border="0"> 
@@ -262,89 +345,6 @@ We are grateful to our sponsors for providing financial support, challenges and 
 </tr>
 </tbody>
 </table>
-
-## The Project Teams
-
-### Team **5 Chords**
-
-We have taken on the Science Festival challenge, specifically with the goal of improving user experience and feedback. Using microphones we will track the level of sound that people make during an event to gauge how engaged and excited they are. We are working on how to visualising the sound data in a way that is useful for an event organiser.
-
-<div class="panel">
-  <h5>Team Members</h5>
-  <ul>
-    <li>Aliaksei Laurynovitch (Coordinator)</li>
-    <li>Zichen Yin</li>
-    <li>Adela Rotar</li>
-    <li>Afshi Sabahi Khorashahi</li>
-    <li>Dalimel Hajek</li>
-    
-  </ul>
-
- <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
-
-</div>
-
-### Team **Transport for DDNAC**
-
-Our project examines ways that Transport for Edinburgh can more efficiently collect  data about people travelling in the area. We are looking at a variety of different methods of tracking people including using NFC tickets and motion sensors to detect when people enter or exit a public transport vehicle.
-
-<div class="panel">
-  <h5>Team Members</h5>
-  <ul>
-    <li>Agnieszka Wasikowska (Coordinator)</li>
-    <li>Nikolay Momchev</li>
-    <li>Duncan Guthrie</li>
-    <li>Junyi Li</li>
-    <li>Cameron MacLeod</li>
-    
-  </ul>
-
- <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
-
-</div>
-
-### Team **Flow**
-
-Our project is using smart IoT route-detection technology to improve commute safety by informing car drivers about the presence of cyclists and pedestrians. The same data can also help with direction prediction and with informing city traffic management systems; for example, about when to change traffic lights when vehicles are queing.
-
-<div class="panel">
-  <h5>Team Members</h5>
-  <ul>
-    <li>Catherine Wang (Coordinator)</li>
-    <li>Ondrej Bohdal </li>
-    <li>Wojciech Nawrocki</li>
-    <li>Daniel Li</li>
-    <li>Yining Zhou</li>
-    
-  </ul>
-
-<a class="button small" href="https://github.com/ondrejbohdal/iot-challenge-flow/" target="_blank">Project GitHub Repo</a>  <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
-
-</div>
-
-### Team **Tyr**
-
-
-Our team is working on two projects. The first is an SMS based systems that allows attendees to submit questions to event organizers and receive responses. The texts are ranked and displayed by importance and filtered for spam or offensive language. An included chatbot completes responses for frequently asked questions. 
-
-The second involves the use of the LoPy to collect anonymous  on movement patterns. Software is being designed to utilize the LoPy’s ability to generate and communicate this data to a server over a long range. A model on the server side has been developed to illustrate usefulness of the dataset by detecting movement patterns.
-
-<div class="panel">
-  <h5>Team Members</h5>
-  <ul>
-    <li>James Guyer (Coordinator)</li>
-    <li>Jimhong Lu</li>
-    <li>Elliot Gilmour</li>
-    <li>Alistair Greaves</li>
-    <li>Levi Fussell</li>
-    
-  </ul>
-
- <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
-
-</div>
-
-
 
 
 <!-- 
