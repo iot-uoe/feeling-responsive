@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Edinburgh IoT Challenge 2017"
 subheadline: "A week-long hack for Festival of Creative Learning"
 header:
-   image_fullwidth: "dec-2017-workshop.jpg"
+   image_fullwidth: "team-tyr.jpg"
    title: "iot.ed.ac.uk"
 permalink: "/iotchallenge/"
 ---
@@ -55,10 +55,10 @@ We are grateful to our sponsors for providing financial support, challenges and 
 
 ### Challenges
 
-* Transport for Edinburgh: *What are key gaps in data needed to inform transport policy and how could we use IoT to help fill those gaps*?
+* Transport for Edinburgh: *What are key gaps in the data needed to inform transport policy in Edinburgh and how could we use IoT to help fill those gaps*?
 * The Science Festival: *How can we develop ways of (i) improving the visitor experience in Edinburgh Festivals, and/or (ii) collecting better feedback from visitors about events*?
 * Pycom: *What uses of IoT could best enhance the student experience*?
-* City of Edinburgh Council: *How can we gain an understanding of mobility (e.g., cars, bikes, pedestrians*) without using mobile tracking techniques?
+* City of Edinburgh Council: *How can we gain an understanding of mobility (e.g., cars, bikes, pedestrians) without using mobile tracking techniques*?
 
 
 
@@ -117,7 +117,7 @@ Our project is using smart IoT route-detection technology to improve commute saf
     
   </ul>
 
-<a class="button small" href="https://github.com/ondrejbohdal/iot-challenge-flow/" target="_blank">Project GitHub Repo</a>  <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+<a class="button info" href="https://github.com/ondrejbohdal/iot-challenge-flow/" target="_blank">GitHub Repo</a> 
 
 </div>
 
@@ -138,9 +138,12 @@ Project 2, Uturn, uses LoPy devices to collect anonymous data about movement pat
     <li>Levi Fussell</li>
     
   </ul>
+<ul class="button-group">
+ <li><a class="button" href="http://uturn.atspace.cc" target="_blank">TIME2TALK</a></li>
+ <li><a class="button" href="http://uturn.atspace.cc" target="_blank">Uturn</a></li>
+ <li><a class="button info" href="https://github.com/levifussell/TYR" target="_blank">GitHub Repo</a></li>
+ </ul>
 
- <a class="button small" href="http://uturn.atspace.cc" target="_blank">Project 1: TIME2TALK Website</a> 
- <a class="button small" href="http://uturn.atspace.cc" target="_blank">Project 2: Uturn Website</a>
 
 </div>
 
