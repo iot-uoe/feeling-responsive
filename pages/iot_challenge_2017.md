@@ -71,7 +71,7 @@ We have taken on the Science Festival challenge, specifically with the goal of i
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
-    <li>Aliaksei Laurynovitch (Coordinator)</li>
+    <li>Aliaksei Laurynovich (Coordinator)</li>
     <li>Zichen Yin</li>
     <li>Adela Rotar</li>
     <li>Afshi Sabahi Khorashahi</li>
@@ -124,9 +124,9 @@ Our project is using smart IoT route-detection technology to improve commute saf
 ### Team **Tyr**
 
 
-Our team is working on two projects. The first is an SMS based systems that allows attendees to submit questions to event organizers and receive responses. The texts are ranked and displayed by importance and filtered for spam or offensive language. An included chatbot completes responses for frequently asked questions. 
+Our team is working on two projects. Project 1, TIME2TALK, is an SMS-based system that allows attendees to submit questions to event organizers and receive responses. The texts are ranked and displayed by importance and filtered for spam or offensive language. A chatbot is incorporated to provide responses for frequently asked questions. 
 
-The second involves the use of the LoPy to collect anonymous  on movement patterns. Software is being designed to utilize the LoPy’s ability to generate and communicate this data to a server over a long range. A model on the server side has been developed to illustrate usefulness of the dataset by detecting movement patterns.
+Project 2, Uturn, uses LoPy devices to collect anonymous data about movement patterns. Software is being designed to utilize the LoPy’s ability to generate and communicate this data to a server over a long range. A model on the server side has been developed to illustrate the usefulness of the dataset by detecting movement patterns.
 
 <div class="panel">
   <h5>Team Members</h5>
@@ -139,7 +139,8 @@ The second involves the use of the LoPy to collect anonymous  on movement patter
     
   </ul>
 
- <!--  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a> -->
+ <a class="button small" href="http://uturn.atspace.cc" target="_blank">Project 1: TIME2TALK Website</a> 
+ <a class="button small" href="http://uturn.atspace.cc" target="_blank">Project 2: Uturn Website</a>
 
 </div>
 
