@@ -31,9 +31,6 @@ We are encouraging multi-disciplinary teams with a mix of design, business, soft
 
 Teams will be pre-selected by the organisers and at the start of the week you will hear from a number of Challenge Holders who will pitch their project ideas. Each team will be required to undertake two of these challenges and present their solutions at the end of the week.
 
-## What happens after the week?
-
-There are many IoT related programs and activities to help support the research, development and commercialization of IoT platforms. If you would like to continue developing your IoT product or service, there are opportunities to connect into other initiatives that could allow you to take your idea forward. The organisers running the event will support you, but ultimately it is up to you and/or team to make the most of these opportunities.
 
 ## Sponsors and Challenges
 
