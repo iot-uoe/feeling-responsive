@@ -19,9 +19,14 @@
   - title: "Past Events"
     url: "/past_events/"
 
-- title: "Coordination"
+- title: "People"
   url: "/coordination/"
-  side: left 
+  side: left
+  dropdown:
+  - title: "Coordination"
+    url: "/coordination/"
+  - title: "Research"
+    url: "/research_directions/"
 
 - title: "Blog"
   url: "/blog/"
