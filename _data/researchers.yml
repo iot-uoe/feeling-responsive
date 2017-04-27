@@ -24,7 +24,7 @@
 - name: "Mahesh K. Marina"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
   url: http://homepages.inf.ed.ac.uk/mmarina/
-  research: "Current research interests can be summarised via the following keywords: Cellular IoT, IoT over 5G via network slicing, NB-IoT, IoT security, privacy-preserving IoT analytics, mobile edge computing for IoT"
+  research: "Cellular IoT, IoT over 5G via network slicing, NB-IoT, IoT security, privacy-preserving IoT analytics, mobile edge computing for IoT"
 
 - name: "Michael O’Boyle"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
@@ -39,7 +39,7 @@
 - name: "Rik Sarkar"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
   url: http://homepages.inf.ed.ac.uk/rsarkar/
-  research: ""
+  research: "I develop distributed data mining algorithms to discover patterns and make sense of aggregate data over larger number of IoT devices. These analytic techniques are efficient and privacy preserving, and designed for networked systems."
 
 - name: "Kami Vaniea"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
