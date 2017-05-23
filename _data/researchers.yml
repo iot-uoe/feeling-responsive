@@ -1,0 +1,52 @@
+# IoT Researchers List
+#
+
+- name: "David Aspinall"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/da/
+  research: "Software security and privacy of IoT and mobile devices, including secure design, implementation and testing. Techniques of interest range from formal methods and program analysis to machine learning and user studies."
+
+- name: "Bjoern Franke"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: https://blog.inf.ed.ac.uk/bfranke/
+  research: "Compilers and code optimisation e.g. reducing code size, full-system/device simulation, detection of parallelisation opportunities, e.g. for offloading of computation to the cloud."
+
+- name: "Ewan Klein"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/ewan/
+  research: ""
+
+- name: "Hugh Leather"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/hleather/
+  research: ""
+
+- name: "Mahesh K. Marina"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/mmarina/
+  research: "Cellular IoT, IoT over 5G via network slicing, NB-IoT, IoT security, privacy-preserving IoT analytics, mobile edge computing for IoT."
+
+- name: "Michael O’Boyle"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://www.dcs.ed.ac.uk/home/mob/
+  research: ""
+
+- name: "Paul Patras"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/ppatras/
+  research: "Paul Patras is a Lecturer and Chancellor’s Fellow in Informatics. He focuses on problems related to IoT security and privacy, network architectures, and performance optimisation."
+
+- name: "Rik Sarkar"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/rsarkar/
+  research: "Developing distributed data mining algorithms to discover patterns and make sense of aggregate data over larger number of IoT devices. These analytic techniques are efficient and privacy preserving, and designed for networked systems."
+
+- name: "Kami Vaniea"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: https://vaniea.com/
+  research: ""
+
+- name: "Maria Wolters"
+  affiliation: "School of Informatics,<br/>The University of Edinburgh"
+  url: http://homepages.inf.ed.ac.uk/mwolters/
+  research: ""
