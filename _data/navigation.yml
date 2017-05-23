@@ -25,8 +25,8 @@
   dropdown:
   - title: "Coordination"
     url: "/coordination/"
-  - title: "Research"
-    url: "/research_directions/"
+  - title: "Informatics"
+    url: "/soi_research_programme/"
 
 - title: "Blog"
   url: "/blog/"
