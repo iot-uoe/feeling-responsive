@@ -9,7 +9,7 @@
 - name: "Bjoern Franke"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
   url: https://blog.inf.ed.ac.uk/bfranke/
-  research: ""
+  research: "Compilers and code optimisation e.g. reducing code size, full-system/device simulation, detection of parallelisation opportunities, e.g. for offloading of computation to the cloud."
 
 - name: "Ewan Klein"
   affiliation: "School of Informatics,<br/>The University of Edinburgh"
