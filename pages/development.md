@@ -8,9 +8,16 @@ header:
 permalink: "/development/"
 ---
 
-We are in the process of installing [Kerlink](http://www.kerlink.fr/en/) gateways at up to five sites across the University campus. In the first instance, data sent to the gateways will be accessed via [The Things Network](https://www.thethingsnetwork.org).
+We are in the process of installing [Kerlink](http://www.kerlink.fr/en/) gateways at up to five sites across the University campus. In the first instance, data sent to the gateways will be accessed via a private instance of[The Things Network](https://www.thethingsnetwork.org).
 
-The first of these gateways was installed on the library at Kings Buildings at the start of December 2016, and a second one is in the process of being set up on the roof of 50 George Square. Additional gateways are being temporarily deployed inside Argyle House and the University Main Library.
+Gateways are currently installed on following locations:
+
+* Murray Library, Kings Buildings
+* 50 George Square
+* Main Library, George Square
+* Argyle House
+
+We will be installing more gateways in the course of the coming year.
 
 ![]({{ site.urlimg }}/kerlink-kb.jpg)
 
