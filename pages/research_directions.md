@@ -5,7 +5,7 @@ permalink: "/research_directions/"
 ---
 
 <div style="width:800px"> 
-Our research interest in the space of IoT covers a wide range of essential research directions.
+Our research interest in the space of IoT covers a wide range of important research directions.
 </div>
 <br/>
 
