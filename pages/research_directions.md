@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Research Directions"
-permalink: "/research_directions/"
+title: "Informatics IoT Research Programme"
+permalink: "/soi_research_programme/"
 ---
 
 <div style="width:800px"> 
-Our research interest in the space of IoT covers a wide range of important research directions.
+Within the School of Informatics, we have established an IoT Research Programme to coordinate relevant activities. The Programme is led by Paul Patras and Rik Sarkar.
 </div>
 <br/>
 
