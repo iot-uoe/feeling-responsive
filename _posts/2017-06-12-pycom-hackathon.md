@@ -25,7 +25,7 @@ The Edinburgh IoT Challenge, which took place during the 2017 [Festival of Creat
  
 During the Pycom Hackathon, teams will have the opportunity to develop their innovative solutions using Pycom devices to address an interesting challenge announced on the day of the event. 
 
-[Pycom](https://www.pycom.io) buldings a wide range of products for IoT, most notably integrated communication technologies (Bluetooth, Wi-Fi, LoRa, Sigfox, LTE-M) on a [small, low-cost boards](https://www.pycom.io/hardware/). 
+[Pycom](https://www.pycom.io) bulds a wide range of products for IoT, most notably integrated communication technologies (Bluetooth, Wi-Fi, LoRa, Sigfox, LTE-M) on a [small, low-cost boards](https://www.pycom.io/hardware/). 
 
 We look forward to seeing what our team can create at the Pycom Hackathon. Good luck, Team Flow!
 
