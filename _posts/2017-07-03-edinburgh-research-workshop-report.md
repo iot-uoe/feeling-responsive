@@ -28,10 +28,10 @@ We held our first Internet of Things Research Workshop on 3rd July 2017, in the 
 |       | Kami Vaniea --  [Usability Security, Privacy and Trust in the IoT]({{ site.url }}/pdfs/vaniea.pdf)                               | 
 |       | Pramod Bhatotia --  [PrivApprox: Privacy-Preserving Stream Analytics]({{ site.url }}/pdfs/bhatotia.pdf)                       | 
 | 11:00 | **Session 2: Medical Applications**        | 
-|       |  Colin Simpson -- [IoT: Medical Applications]({{ site.url }}/pdfs/simpson.pdf)              | 
+|       | Colin Simpson -- IoT: Medical Applications             | 
 |       | Thanasis Tsanas -- Objective characterisation of activity, sleep and circadian rhythm patterns using wearables                         | 
 |       | Riinu Ots -- [TWIST: Tracking Wound Infection with Smartphone Technology]({{ site.url }}/pdfs/ots.pdf)                                | 
-|       | Hilary Pinnock -- Technological support for self-management                        | 
+|       | Hilary Pinnock -- [Technological support for self-management]({{ site.url }}/pdfs/pinnock.pdf)                          | 
 | 11:45 | **Session 3: Argyle House Monitoring Project** | 
 |       | Ewan Klein -- [Project overview]({{ site.url }}/pdfs/klein-occupancy.pdf)                               | 
 |       | Cat Magill -- [Perceptions of IoT and Possibilities for Engaging 'Users']({{ site.url }}/pdfs/magill.pdf)                               | 
