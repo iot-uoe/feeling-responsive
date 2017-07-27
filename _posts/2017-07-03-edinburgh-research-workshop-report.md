@@ -24,7 +24,7 @@ We held our first Internet of Things Research Workshop on 3rd July 2017, in the 
 |       | Ewan Klein -- [IoT Research Perspective]({{ site.url }}/pdfs/klein-intro.pdf)                                 | 
 | 10:00 | **Session 1: Ubiquitous and secure computing** | 
 |       | Paul Patras --  [From Ubiquitous Computing to Internet of Everything]({{ site.url }}/pdfs/patras.pdf)                  | 
-|       | Jane Hillston -- IoT: the case for quantitative analysis                             | 
+|       | Jane Hillston -- [IoT: the case for quantitative analysis]({{ site.url }}/pdfs/hillston.pdf)                              | 
 |       | Kami Vaniea --  [Usability Security, Privacy and Trust in the IoT]({{ site.url }}/pdfs/vaniea.pdf)                               | 
 |       | Pramod Bhatotia --  [PrivApprox: Privacy-Preserving Stream Analytics]({{ site.url }}/pdfs/bhatotia.pdf)                       | 
 | 11:00 | **Session 2: Medical Applications**        | 
