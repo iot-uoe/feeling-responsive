@@ -152,11 +152,11 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
     <td>Cristina Nan</td>
     <td></td>
   </tr>
-  <tr>
+ <!--  <tr>
     <td></td>
-    <td>Miguel Paredes Maldonado (TBC)</td>
+    <td>Miguel Paredes (TBC)</td>
     <td></td>
-  </tr>
+  </tr> -->
   <tr>
     <td>14:45</td>
     <td><b>Session 6: IoT and Blockchain</b></td>
