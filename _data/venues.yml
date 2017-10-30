@@ -19,7 +19,7 @@ ucreate-studio:
   mapurl: http://www.openstreetmap.org/?mlat=55.9438&mlon=-3.1889#map=15/55.9438/-3.1889
 
 if-g07:
-  room: "Infornatics Formum G07"
+  room: "Infornatics Forum G07"
   address1: "School of Informatics"
   address2: "10 Crichton Street"
   city: Edinburgh
