@@ -11,9 +11,7 @@ show_meta: false
 ---
 ## Overview
 
-The Internet of Things potentially embraces a huge space of research topics and application areas. We can categorise the space in numerous ways: in terms of the different technologies; different aspects of the “data value constellation”; different use-cases; and different cross-cutting issues such as data provenance and privacy. 
-
-We held our first Internet of Things Research Workshop on 3rd July 2017, in the Informatics Forum. Our goal was to bring together people from across the University of Edinburgh whose research contributes to this complex picture, to facilitate new collaborations, and to identify new research opportunities. The final talk provided the perspective of ARM, a major industrial player in the area.
+We held our first Internet of Things Research Workshop on 3rd July 2017, in the Informatics Forum. The event generated a great deal of interest amongst participants, and was particularly interesting for the issues that were raised for medical applications of IoT. We are grateful to ARM for contributing a final pair of talks.
 
 ## Programme
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 subheadline: Workshop
-title:  "IoT Research Workshop"
+title:  "University of Edinburgh IoT Research Workshop"
 categories:
     - events
 venue: if-g07
@@ -12,15 +12,15 @@ registration: https://www.eventbrite.co.uk/e/university-of-edinburgh-iot-researc
 
 ## Overview
 
-The Internet of Things potentially embraces a huge space of research topics and application areas. We can divide up the space in numerous ways, for example, in terms of the different technologies; different aspects of the “data value constellation”; different use-cases; or different cross-cutting issues such as data provenance and privacy. 
+Building on the success of the first [Internet of Things Research Workshop]({% post_url 2017-07-03-edinburgh-research-workshop-report %}) last July, we are expanding our scope to embrace new topics and new disciplines such as engineering and design informatics. 
 
-We held our first [Internet of Things Research Workshop]({% post_url 2017-07-03-edinburgh-research-workshop-report %}) on 3rd July 2017, in the Informatics Forum. Our goal was to bring together people from across the University of Edinburgh whose research contributes to this complex picture, to facilitate new collaborations, and to identify new research opportunities.
+We are using a deliberately generous interpretation of "Internet of Things" in order to cast our net as wide as possible. As before, our goal is to bring together people from across the University whose research contributes to this complex picture, to facilitate new collaborations, and to identify new research opportunities. Not all of the talks in the programme will present solutions or explicitly address IoT issues &mdash; we are also covering areas which are promising targets for future IoT research and applications. 
 
-Building on the success of the first workshop, we are further expanding the scope of this event to include new topics and new disciplines.
 
 
 
 ## Programme
+
 <table>
   <tr>
     <th>Time</th>
