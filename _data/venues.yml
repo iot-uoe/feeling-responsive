@@ -8,7 +8,7 @@ design-informatics: # replace this with your info
   address2: "78 West Port"
   city: Edinburgh
   postcode: "EH1 2LE"
-  mapurl: http://osm.org/go/evfLgzO19--?layers=H&m=&way=253564810
+  mapurl: hhttp://www.openstreetmap.org/?mlat=55.94610&mlon=-3.20064#map=18/55.94610/-3.20064
   
 ucreate-studio:
   room: "uCreate Studio (Room 1.12)"
@@ -16,4 +16,13 @@ ucreate-studio:
   address2: "30 George Square"
   city: Edinburgh
   postcode: "EH8 9LJ"
-  mapurl: http://osm.org/go/evfLiitpd?layers=H&way=4308724
+  mapurl: http://www.openstreetmap.org/?mlat=55.9438&mlon=-3.1889#map=15/55.9438/-3.1889
+
+if-g07:
+  room: "Infornatics Formum G07"
+  address1: "School of Informatics"
+  address2: "10 Crichton Street"
+  city: Edinburgh
+  postcode: "EH8 9AB"
+  mapurl: http://www.openstreetmap.org/?mlat=55.94466&mlon=-3.18733#map=17/55.94466/-3.18733
+
