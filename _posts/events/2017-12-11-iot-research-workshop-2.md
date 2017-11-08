@@ -90,17 +90,17 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>James Stewart</td>
-    <td></td>
+    <td>Ethics of IoT: report from the Action Group</td>
   </tr>
   <tr>
     <td></td>
     <td>Renate Gerz</td>
-    <td></td>
+    <td>Rena's "Top 5 tips" for data protection</td>
   </tr>
   <tr>
     <td></td>
     <td>Michael Rovatsos</td>
-    <td></td>
+    <td>Ethics and algorithms</td>
   </tr>
   <tr>
     <td>12:15</td>
@@ -115,17 +115,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>David Rush</td>
-    <td></td>
+    <td>Fire warning in informal settlements</td>
   </tr>
   <tr>
     <td></td>
     <td>Rory Hadden</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Chris Beckett</td>
-    <td></td>
+    <td>Wildfire sensing and response</td>
   </tr>
   <tr>
     <td>13:00</td>
@@ -140,23 +135,23 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Yuner Huang</td>
-    <td></td>
+    <td>Big data for offshore structures</td>
   </tr>
   <tr>
     <td></td>
     <td>Stefanos Papanicolopulos</td>
-    <td></td>
+    <td>The Internet of Grains: Tracking Granular Flows</td>
   </tr>
   <tr>
     <td></td>
     <td>Cristina Nan</td>
-    <td></td>
+    <td>Architectural Robotics</td>
   </tr>
- <!--  <tr>
+  <tr>
     <td></td>
-    <td>Miguel Paredes (TBC)</td>
-    <td></td>
-  </tr> -->
+    <td>Miguel Paredes</td>
+    <td>Collective sensing and mapping for the urban environment</td>
+  </tr>
   <tr>
     <td>14:45</td>
     <td><b>Session 6: IoT and Blockchain</b></td>
@@ -175,12 +170,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Myrto Arapinis</td>
-    <td></td>
+    <td>Bitcoin wallets</td>
   </tr>
   <tr>
     <td></td>
-    <td>Ella Tallyn / Larissa Pschetz</td>
-    <td></td>
+    <td>Ella Tallyn &amp; Larissa Pschetz</td>
+    <td>Using a technology probe to investigate the effect of IoT devices on coffee consumers</td>
   </tr>
   <tr>
     <td>15:30</td>
