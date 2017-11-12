@@ -18,7 +18,6 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
 
 
 
-
 ## Programme
 
 <table>
@@ -34,18 +33,18 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td>10:00</td>
-    <td><b>Session 1: University IoT Research Service</b></td>
+    <td><b>Session 1: University IoT Research &amp; Innovation Service</b></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Ewan Klein / Simon Chapple</td>
-    <td>Goals and overview of the IoT Research Service</td>
+    <td>Overview of the IoT Research &amp; Innovation Service</td>
   </tr>
   <tr>
     <td></td>
     <td>Mark Strevens / Jimmy Angelakos</td>
-    <td>Demo of IoT Service</td>
+    <td>Demo of the Iot Research &amp; Innovation Service</td>
   </tr>
   <tr>
     <td>10:30</td>
@@ -65,12 +64,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Tughrul Arslan</td>
-    <td>Automatic Crowd Sourcing of IoT and Sensor Big Data for driving the Next Generation Location Based Services (LBS)</td>
+    <td>Automatic Crowd Sourcing of IoT and Sensor Big Data for Driving the Next Generation Location Based Services</td>
   </tr>
   <tr>
     <td></td>
     <td>Wasiu Popoola</td>
-    <td>Optical Wireless Communications For IoT</td>
+    <td>Optical Wireless Communications for IoT</td>
   </tr>
   <tr>
     <td>11:15</td>
@@ -90,12 +89,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>James Stewart</td>
-    <td>Ethics of IoT: report from the Action Group</td>
+    <td>Ethics of IoT: Report from the Action Group</td>
   </tr>
   <tr>
     <td></td>
     <td>Renate Gerz</td>
-    <td>Rena's "Top 5 tips" for data protection</td>
+    <td>Rena's "Top 5 tips" for Data Protection</td>
   </tr>
   <tr>
     <td></td>
@@ -115,12 +114,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>David Rush</td>
-    <td>Fire warning in informal settlements</td>
+    <td>Fire Warning in Informal Settlements</td>
   </tr>
   <tr>
     <td></td>
     <td>Rory Hadden</td>
-    <td>Wildfire sensing and response</td>
+    <td>Wildfire Sensing and Response</td>
   </tr>
   <tr>
     <td>13:00</td>
@@ -135,7 +134,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Yuner Huang</td>
-    <td>Big data for offshore structures</td>
+    <td>Big data for Offshore Structures</td>
   </tr>
   <tr>
     <td></td>
@@ -150,7 +149,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Miguel Paredes</td>
-    <td>Collective sensing and mapping for the urban environment</td>
+    <td>Collective Sensing and Mapping for the Urban Environment</td>
   </tr>
   <tr>
     <td>14:45</td>
@@ -170,12 +169,12 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Myrto Arapinis</td>
-    <td>Bitcoin wallets</td>
+    <td>Bitcoin Wallets</td>
   </tr>
   <tr>
     <td></td>
     <td>Ella Tallyn &amp; Larissa Pschetz</td>
-    <td>Using a technology probe to investigate the effect of IoT devices on coffee consumers</td>
+    <td>Using a Technology Probe to Investigate the Effect of IoT Devices on Coffee Consumers</td>
   </tr>
   <tr>
     <td>15:30</td>
