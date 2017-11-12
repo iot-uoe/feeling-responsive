@@ -134,7 +134,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Yuner Huang</td>
-    <td>Big data for Offshore Structures</td>
+    <td>Big Data for Offshore Structures</td>
   </tr>
   <tr>
     <td></td>
@@ -168,7 +168,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td></td>
-    <td>Myrto Arapinis</td>
+    <td>Andriana Gkaniatsou</td>
     <td>Bitcoin Wallets</td>
   </tr>
   <tr>
