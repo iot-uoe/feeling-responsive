@@ -89,17 +89,17 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>James Stewart</td>
-    <td>Ethics of IoT: Report from the Action Group</td>
+    <td>Ethics and Governance for supporting the University IoT Research and Innovation Service</td>
   </tr>
   <tr>
     <td></td>
     <td>Renate Gerz</td>
-    <td>Rena's "Top 5 tips" for Data Protection</td>
+    <td>Rena's 5 Top Tips for Data Protection</td>
   </tr>
   <tr>
     <td></td>
     <td>Michael Rovatsos</td>
-    <td>Ethics and algorithms</td>
+    <td>Responsible Algorithmic Governance in IoT systems</td>
   </tr>
   <tr>
     <td>12:15</td>
@@ -164,7 +164,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   <tr>
     <td></td>
     <td>Aydin Kheirbakhsh Abadi</td>
-    <td></td>
+    <td>Applications of Blockchain Technology and Smart Contracts in Charities</td>
   </tr>
   <tr>
     <td></td>
