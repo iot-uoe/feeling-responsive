@@ -133,7 +133,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td></td>
-    <td>Yuner Huang</td>
+    <td>Spyros Karamanos</td>
     <td>Big Data for Offshore Structures</td>
   </tr>
   <tr>
