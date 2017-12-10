@@ -28,7 +28,7 @@ author: ewan
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #url: 'https://iot.ed.ac.uk'
-url: 'http://raw-text.io/iot-webdev'
+url: 'https://iot-uoe.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -41,7 +41,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://raw-text.io/iot-webdev/images/'
+urlimg: 'https://iot-uoe.github.io/images/'
 
 
 # Logo size is 600x80 pixels
