@@ -1,0 +1,21 @@
+
+{% for pilot in site.pilots %}
+
+  <div class="row">
+    <div class="small-12 columns b10">
+     <!--  <p class="subheadline">{{ pilot.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if pilot.categories != empty and pilot.subheadline != NULL %} – {% endif %}{{ pilot.subheadline }}</p> -->
+      <h2><a href="{{ site.url }}{{ pilot.url }}">{{ pilot.title }}</a></h2>
+      <p>
+        {% if pilot.image.thumb %}<a href="{{ site.url }}{{ pilot.url }}" title="{{ pilot.title | escape_once }}"><img src="{{ site.urlimg }}{{ pilot.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ page.title | escape_once }}"></a>{% endif %}
+
+        {% if pilot.meta_description %}{{ pilot.meta_description | strip_html | escape }}{% elsif pilot.teaser %}{{ pilot.teaser | strip_html | escape }}{% endif %}
+        <br/>
+        <a href="{{ site.url }}{{ pilot.url }}" title="{{ site.data.language.read }} {{ pilot.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
+{% endfor %}
+
+
+
+
