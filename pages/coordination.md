@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Coordination"
+title: "Coordination Group"
 permalink: "/coordination/"
 ---
 
-At present, the {{ site.title }} is organised by an informal Coordination Group, consisting of the following members:
+The Group has the following members:
 
 <ul>
 {% for coordinator in site.data.coordinators %}

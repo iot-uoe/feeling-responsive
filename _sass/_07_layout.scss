@@ -1,4 +1,3 @@
-@charset "utf-8";
 /* TOC
 
 - Adjustments: Video Layout
@@ -68,15 +67,15 @@ body.video cite { color: #fff; }
     background-color: $primary-color;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: $t-lighter-blue;
 }
 #masthead-with-text {
     text-align: center;
     font-size: rem-calc(54);
-    font-family: $font-family-serif;
+    font-family: $header-font-family;
     color: #fff;
     text-transform: uppercase;
-    /*text-shadow: 0 2px 3px rgba(0,0,0,.4); */
+    text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
     height: 175px;
@@ -84,43 +83,6 @@ body.video cite { color: #fff; }
 #masthead-no-image-header #logo img {
     margin-top: 60px;
 }
-
-#masthead-text-only {
-    height: 30px;
-    padding-top: 5px;
-    padding-bottom: 0px;
-    padding-left: 0.3rem;
-    background-color: $primary-color;
-    font-size: rem-calc(45);
-    font-family: $font-family-sans-serif;
-    color: #fff;
-}
-
-#masthead-text-only row {
-    padding-left: 0.3rem;
-}
-
-#branding {
-    height: 100px;
-    background-color: #fff;
-    padding-top: 15px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-}
-
-#branding img {
-    width: 85%;
-    max-width: 332px;
-    height: auto;
-    max-height: 79px
-}
-
-#branding row {
-    margin-left: 5px;   
-}
-
-
-
 
 /* Masthead › small-only
 ------------------------------------------------------------------- */
@@ -330,51 +292,33 @@ body.video cite { color: #fff; }
     background: $subfooter-bg;
     color: $subfooter-color;
     padding-top: 30px;
+    padding-bottom: 10px;
 }
-
-#subfooter p {
-    font-size: rem-calc(10);
-    font-weight: 200;
-}
-
-#subfooter a {
-    text-transform: none;
-}
-
-#subfooter-left ul.inline-list {
-    float: left;
-}
-
-.credits a {
-    color: $subfooter-link-color;
-    border: 0;
-    text-transform: uppercase;
-    &:hover {
-        color: #fff;
-  }
-}
-
-.social-icons {
-    margin-bottom: 10px !important;
-
-// Beware of SCSS-Syntax here
-  li {
-    padding: 0 0 20px 0;
-  }
-  a {
-    font-size: rem-calc(23);
-    display: block;
-    width: 36px;
-    border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
-    text-align: center;
-    &:hover {
-      background: $subfooter-bg;
-      color: #fff;
+    #subfooter-left ul.inline-list {
+        float: left;
     }
-  }
-}
+    #subfooter .credits a {
+        color: $subfooter-link-color;
+        border: 0;
+        text-transform: uppercase;
+        &:hover {
+            color: #fff;
+        }
+    }
+
+    #subfooter .social-icons li a {
+        font-size: rem-calc(23);
+        display: block;
+        width: 36px;
+        border-radius: 50%;
+        color: $subfooter-bg;
+        background: $subfooter-color;
+        text-align: center;
+    }
+    #subfooter .social-icons li a:hover {
+        background: $subfooter-bg;
+        color: #fff;
+    }
 
 
 

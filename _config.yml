@@ -1,11 +1,11 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
-#      _____ _ __          _____      __  __  _
+#      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
-#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
-#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
-#                                                 /____/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  ) 
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/  
+#                                                 /____/        
 #
 # Title of your website
 title: 'Edinburgh IoT Initiative'
@@ -14,9 +14,9 @@ title: 'Edinburgh IoT Initiative'
 slogan: 'iot.ed.ac.uk'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'The IoT Initiative at The University of Edinburgh'
+description: 
 
-copyright: '<p>Copyright &copy; University of Edinburgh 2016</p>'
+copyright: '<p>Copyright &copy; University of Edinburgh 2017</p>'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Powered by <a href="http://jekyllrb.com/">Jekyll</a>, based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> Theme</p>'
@@ -27,12 +27,13 @@ author: ewan
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://iot-uoe.github.io'
+#url: 'https://iot.ed.ac.uk'
+url: 'http://raw-text.io/iot-webdev'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -40,42 +41,28 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://iot-uoe.github.io/images/'
+urlimg: 'http://raw-text.io/iot-webdev/images/'
+
 
 # Logo size is 600x80 pixels
-logo: 
+logo: logo.png
 
-# Gems
-gems:
-    - jekyll-asciidoc
-    - jekyll-gist
-    - jekyll-paginate
-    - jekyll-twitter-plugin
 
-collections:
-    pilots:
-        output: true
+# Paginates all X entries
+paginate: 5
 
-future: true
 
-#       ____              _             __  _
-#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
-#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
-#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
-#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
-#               /____/
-#
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+# Pagination path › Important for blog page in /blog/ to work
+paginate_path: "blog/page:num"
 
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
 permalink: /:categories/:year/:month/:title/
 highlight: rouge
+plugins: [jekyll-paginate]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
-
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -84,12 +71,10 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-    - .gitignore
-    - Makefile
-
+    - home-design.pdf
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: "en"
 
 
 # Used › default.html front-matter and compress.html
@@ -102,6 +87,11 @@ compress_html:
   ignore:
     envs: [development]
 
+collections:
+    pilots:
+        output: true
+
+future: true
 
 #
 #       ____       ____            ____
@@ -115,8 +105,8 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
-      type: 'pages'
+      path: "" 				# an empty string here means all files in the project
+      type: "pages"
     values:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
@@ -124,10 +114,10 @@ defaults:
       author: ewan     # Default author for pages
   -
     scope:
-      path: ''
-      type: 'posts'
+      path: ""
+      type: "posts"
     values:
-      show_meta: false  # Don't show metadata for  posts
+      show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: ewan     # Default author for posts
@@ -152,10 +142,10 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             ''
-google_site_verification:  ''
-bing_webmastertools_id:    ''
-# alexa_verify_id:         ''
+# google_author:             ""
+# google_site_verification:  ""
+# bing_webmastertools_id:    ""
+# alexa_verify_id:           ""
 
 
 
@@ -166,18 +156,18 @@ bing_webmastertools_id:    ''
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
+favicon-32x32:                          "favicon-32x32.png"
+touch-icon-192x192:                     "touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+msapplication_tilecolor:                "#fabb00"
 
 
 #       ______                __                __
@@ -186,9 +176,13 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           ''
-og_locale:                          'en_EN'
-og_type:                            'website'
+# og_image:                         ""
+# og_locale:                        "en_EN"
+# og_type:                          "website"
+# og_title:                         ""
+# og_description:                   ""
+# og_url:                           ""
+# og_site_name:                     ""
 
 
 #      _____            _       __   __  ___         ___
@@ -199,7 +193,6 @@ og_type:                            'website'
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
-
 socialmedia:
     twitter: UoE_IoT
     facebook: 
@@ -214,7 +207,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: 
+# disqus_shortname: 
 
 
 #      _____
@@ -241,7 +234,6 @@ sass:
 google_analytics_tracking_id: UA-86425714-1
 
 
-
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___
 #  | __/ _` \ \ /\ / / |/ /| __/ _ \
@@ -256,26 +248,3 @@ google_analytics_tracking_id: UA-86425714-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
-
-
-#     ___              _     __           __
-#    /   |  __________(_)___/ /___  _____/ /_____  _____
-#   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
-#  / ___ |(__  ) /__/ / /_/ / /_/ / /__/ /_/ /_/ / /
-# /_/  |_/____/\___/_/\__,_/\____/\___/\__/\____/_/
-#
-#  Asciidoctor is a fast text processor and publishing toolchain for converting
-#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
-#
-#  https://github.com/asciidoctor/jekyll-asciidoc
-#  https://github.com/asciidoctor
-#
-#
-
-asciidoctor-enabled: false
-asciidoctor:
-  description: testtewtetrue
-  attributes:
-    source-highlighter: coderay
-    coderay-css: style
-    icons: font

@@ -1,13 +1,9 @@
 ---
 layout: page
-subheadline: Event Report
+category: Event Report
 title:  "University of Edinburgh IoT Research Workshop"
 teaser: "Connecting things, connecting people"
-breadcrumb: false
-tags: 
-    - workshop
-author: ewan
-show_meta: false
+tags: [workshop, privacy, medical applications, data visualisation, security]
 ---
 ## Overview
 

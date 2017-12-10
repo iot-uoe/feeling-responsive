@@ -4,7 +4,6 @@ subheadline: Seminar
 title:  "LoRa, Sigfox and LTE-M: How do they compare?"
 categories:
     - events
-
 venue: "Informatics Forum, Room 2.33, 10 Crichton Street"
 start_time: 2016-10-28 09:30
 end_time: 2016-10-28 10:30

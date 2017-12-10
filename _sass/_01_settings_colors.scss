@@ -1,4 +1,3 @@
-@charset "utf-8";
 /* TOC – Color Variables
 
 - Basics
@@ -26,39 +25,32 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
+$t-dark-blue: #022b3a;
+$t-lighter-blue: #1f7a80;
+$t-pale-blue: #bfdbf7;
+$t-off-white: #e1e5f2;
+$t-green: #577e3e;
+$t-yellow: #f0ea19;
+$t-link: #3366ff;
+
 $ci-1: #334D5C;		// dark turquoise
 $ci-2: #45B29D;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
-
-/* UoE Corporate Colours */
-
-$ci-red: #D50032;         // Corporate red
-$ci-blue: #041E42;        // Corporate blue
-$ci-bright-blue: #008EAA; // Bright blue
-$ci-bright-pink: #D0006F; // Bright pink
-$ci-purple: #830065;	  // Purple theme
-$ci-burgundy: #A50034;    // Burgundy theme
-$ci-dark-green: #154734;  // Dark green theme
-$ci-jade: #487A7B;        // Jade
-$ci-muted-blue: #004F71;  // Muted blue theme
-$ci-muted-brown: #6D4F47; // Muted brown theme
-$ci-spruce-grey: #333F48; // Spruce grey
-
+//$ci-6: #A1D044;     // green
+$ci-6: $t-pale-blue;
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-red;
+$primary-color: $ci-1;
 $secondary-color: $ci-6;
 $alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
-
 
 
 /* Grey Scale
@@ -86,42 +78,44 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $grey-16; // $body-bg;
+//$topbar-bg-color: #fff;
+$topbar-bg-color: #022b3a;
 $topbar-bg: $topbar-bg-color;
 
-
-$topbar-dropdown-toggle-color: #fff;
+$topbar-dropdown-toggle-color: $t-pale-blue;
 
 $topbar-link-color: #fff;
 $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: #000;
-$topbar-dropdown-link-bg-hover: #fff;
+$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-link-bg-hover: $t-pale-blue;
 
-$topbar-link-bg-active: #fff; // Active Navigation Link
-$topbar-link-bg-hover: #fff;
-$topbar-link-bg-active-hover: $grey-6;
+$topbar-link-bg-active: #1e7a8c; // Active Navigation Link
+$topbar-link-bg-hover: $t-pale-blue;
+$topbar-link-bg-active-hover: $t-pale-blue;
 
 
-$topbar-dropdown-bg: $ci-bright-pink; // Background Mobile Navigation
+$topbar-dropdown-bg: $t-pale-blue; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $grey-6;
+$topbar-dropdown-link-bg: $t-pale-blue;
 
+$topbar-menu-link-color-toggled: $ci-1;
+$topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #fff;
 $topbar-menu-icon-color: #fff;
-$topbar-menu-link-color-toggled: $ci-bright-pink;
-$topbar-menu-icon-color-toggled: $ci-bright-pink;
+$topbar-menu-link-color-toggled: $t-pale-blue;
+$topbar-menu-icon-color-toggled: $t-pale-blue;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-14;
+$footer-bg: $t-dark-blue;
 $footer-color: #fff;
-$footer-link-color: light($ci-red);
+$footer-link-color: $t-pale-blue;
 
 
 $subfooter-bg: #000;

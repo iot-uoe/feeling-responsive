@@ -2,19 +2,12 @@
 layout: page
 title:  "Second LoPy Workshop"
 teaser: "Hands-on IoT Communication with LoRa"
-breadcrumb: false
-tags:
-    - LoPy
-    - LoRa
-    - workshop
-    - Pycom
-    - Communication
-    - IoT
+category: Event Report
+tags: [LoPy,LoRaWAN,workshop,Pycom,sensors,environmental monitoring]
 image:
     title: workshop2/IMG_20161201_101740_2.jpg
     thumb: workshop2/thumbnail.jpg
 author: valentin
-show_meta: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 subheadline: Workshop
-title:  "University of Edinburgh IoT Research Workshop"
+title:  "2nd University of Edinburgh IoT Research Workshop"
 categories:
     - events
 venue: if-g07
@@ -28,8 +28,8 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td>09:45</td>
-    <td>Introduction and Welcome</td>
-    <td></td>
+    <td>Kevin Collins</td>
+    <td>Opening</td>
   </tr>
   <tr>
     <td>10:00</td>
@@ -38,8 +38,8 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td></td>
-    <td>Ewan Klein / Simon Chapple</td>
-    <td>Overview of the IoT Research &amp; Innovation Service</td>
+    <td>Simon Chapple</td>
+    <td>Introduction to the Research &amp; Innovation Service</td>
   </tr>
   <tr>
     <td></td>
@@ -133,7 +133,7 @@ We are using a deliberately generous interpretation of "Internet of Things" in o
   </tr>
   <tr>
     <td></td>
-    <td>Spyros Karamanos</td>
+    <td>Yuner Huang</td>
     <td>Big Data for Offshore Structures</td>
   </tr>
   <tr>

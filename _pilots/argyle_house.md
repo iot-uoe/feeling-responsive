@@ -1,19 +1,23 @@
 ---
 layout: page
 title: 'Argyle House'
+teaser: "Monitoring environment conditions and occupancy in meeting rooms"
 image: 
-    title: argh-mono.jpg
-    thumb: argh-thumb.jpg
-teaser: "Monitoring environment and occupancy in meeting rooms"
+    title: libelium.jpg
+    thumb: chair.png
+show_meta: true
+category: Project
+tags: [building management, room occupancy, indoor sensors, environmental monitoring, UoE pilot, devices in the workplace]
 ---
 
-The pilot is starting in February 2017, and deploys sensors and wireless devices to enable environmental and space occupancy monitoring. None of these sensors will capture any personal data.
+As part of a broad plan for estates management by the University of Edinburgh, several hundreds of operations staff who had been scattered across multiple sites were recently rehoused in open-plan offices in a refurbished 60s office block (Argyle House).  The ground floor of the premises was remodelled to contain an assortment of large and small meeting rooms.  In order to give building managers more information about occupancy and environmental conditions, we carried out a pilot project with multiple networked devices. 
 
-The pilot will allow us to build and demonstrate our capability with IoT infrastructure, as well as giving us an understanding of how the environment in Argyle House performs.   One of the outcomes of the pilot will be evidence to help underpin future choices in provisioning meeting room facilities.
+In one of the small meeting rooms, sensors were attached to chairs and the door to measure temperature, light level and movement. Sensors for light level, temperature, atmospheric pressure and relative humidity were also placed near desks across one wing of an open-plan area.  
 
-<h2>Meeting Room Occupancy</h2>
+We carried out a Privacy Impact Assessment in which we were careful to demonstrate that no personal data would be captured by the sensors.  
 
-We will attach a small sensor (an Estimote beacon) to each chair and the entrance door in eight meeting rooms to measure temperature, light level and movement. This will give us a view of occupancy levels for each meeting room.   The sensors will communicate via Bluetooth to a small sensor hub in the room, which will then send data using LoRa radio to a dedicated LoRa gateway receiver. There will be a notice posted in each meeting room where the sensors are deployed.
+The pilot allowed us to build and demonstrate our capability with IoT infrastructure, as well as giving us an understanding of how the environment in Argyle House performs.   
+
 
 <div class="t60">
     <ul class="clearing-thumbs small-block-grid-2" data-clearing>   
@@ -22,12 +26,6 @@ We will attach a small sensor (an Estimote beacon) to each chair and the entranc
           
     </ul>
 </div>
-
-<h2>Environmental monitoring</h2>
-
-In addition to the occupancy monitoring, on two floors we will place wireless LoRa devices with sensors for heat, atmospheric pressure, and humidity, one of which will also include a particulate sensor.
-
-
 
 
 

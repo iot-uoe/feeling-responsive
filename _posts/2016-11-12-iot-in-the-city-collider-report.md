@@ -1,22 +1,17 @@
 ---
 layout: page
-subheadline: Event Report
 title:  "Colliding with IoT in the City"
 teaser: "Hacking community ideas for the Internet of Things"
-tags:
-    - LoRa
-    - collider
-    - Edinburgh
+category: Event Report
+tags: [LoRaWAN, collider, Edinburgh, public engagement, City of Edinburgh Council, libraries, Edinburgh Living Lab, urban greenspace, waste and recycling, active travel, sustainability]
 image:
     title: collider-larissa.jpg
     thumb: collider-larissa-thumb.jpg
-author: ewan
-show_meta: false
 ---
 
 A [Design Informatics](http://www.designinformatics.org) collider is a conceptual design event, bringing together computational thinking and design thinking, to pull informaticians together with designers, and problem holders. The first part of the collider sets the scene before breaking out in to workshop sessions. 
 
-The [Collider on IoT in the City]({{ site.baseurl }}{% post_url 2016-11-11-iot-in-the-city-collider %}) (11th November 2016) was framed by the following question:
+The [Collider on IoT in the City]({{ site.baseurl }}{% post_url /events/2016-11-11-iot-in-the-city-collider %}) (11th November 2016) was framed by the following question:
 
 > In the context of a city-wide network for the Internet of Things, what connections can be made that link together civic, cultural and private activities to foster an open innovation culture?
 
@@ -78,7 +73,7 @@ Placing sensors on dogs would allow people to gauge how busy parks are at a part
 
 <h4>Group 3: Your Glass Bin is Half Full!</h4>
 
-Incentivising people to take and upload photos of how full their local recycling bins are would prevent top-floor tenement dwellers from making a wasted journey (and dumping their recycling into general waste). We could could do this by developing an app which would give micro-payments to responsible citizens and help to create value within a community.
+Incentivising people to take and upload photos of how full their local recycling bins are would prevent top-floor tenement dwellers from making a wasted journey (and dumping their recycling into general waste). We could could do this by developing an app which would give Blockchain-based micro-payments to responsible citizens and help to create value within a community.
 
 <div class="row b50">
     <div class="medium-4 columns">
@@ -136,13 +131,11 @@ Collectively, there was a feeling that we need think first and foremost about pe
     </div><!-- /.medium-6.columns -->
   
  </div>
-
-
+<!-- 
 <div class="flex-video">
-<iframe src="//storify.com/UoE_IoT/iot-collider-on-twitter/embed?header=false&border=false" width="100%" height="750" frameborder="no" allowtransparency="true">	
-</iframe><
-script src="//storify.com/UoE_IoT/iot-collider-on-twitter.js?header=false&border=false"></script><noscript>[<a href="//storify.com/UoE_IoT/iot-collider-on-twitter" target="_blank">View the story "IoT Collider on Twitter" on Storify</a>]</noscript>
-</div>
+<div class="storify"><iframe src="//storify.com/UoE_IoT/iot-collider-on-twitter/embed?header=false&border=false&template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/UoE_IoT/iot-collider-on-twitter.js?header=false&border=false&template=slideshow"></script><noscript>[<a href="//storify.com/UoE_IoT/iot-collider-on-twitter" target="_blank">View the story "IoT Collider on Twitter" on Storify</a>]</noscript></div>
+</div> -->
+
 
 <div class="flex-video">
 <a name="wh-video"></a>

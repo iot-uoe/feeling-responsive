@@ -1,19 +1,14 @@
 ---
 layout: page
-subheadline: Event Report
 title:  "Our first LoPy Workshop"
 teaser: "Programming IoT Devices with MicroPython"
 breadcrumb: false
-tags:
-    - LoPy
-    - LoRa
-    - workshop
-    - Pycom
+category: "Event Report"
+tags: [LoPy, LoRaWAN, workshop, Pycom]
 image:
     title: build-today.jpg
     thumb: build-today-thumb.jpg
 author: simon
-show_meta: false
 ---
 On Thursday 27th October, we ran our very first [hands-on LoPy workshop]({{ site.url }}/events/2016/10/lopy-workshop-01/) at Design Informatics in Evolution House.  This was made possible by 10 brand-spanking-new Pycom LoPys sporting the very newest firmware less than 24 hours old, shared amongst 18 students and staff, including a couple of folk from outwith the University. And very possibly this was the very first workshop run anywhere in the world with the new production LoPy board!  We were especially privileged to have both [Fred de Haro (Pycom CEO)](https://twitter.com/fdh2020) and Roberto Marques (Pycom software engineer) with us for the event (see Fred's [own post about his visit](https://www.pycom.io/hot-iot-edinburgh/)). For two hours we were busy hacking in MicroPython, sending messages over the new University LoRaWAN network &mdash; our own private set-up consisting of Kerlink gateways and our own deployment of [The Things Network](https://www.thethingsnetwork.org) open source back-end. Some of the groups also managed to wire up a light sensor to the LoPy and transmit its data over LoRaWAN. 
 

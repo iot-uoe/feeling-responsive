@@ -2,15 +2,11 @@
 layout: page
 title:  "Team Flow invited to the Pycom Hackathon"
 teaser: "Edinburgh students visit Eindhoven"
-breadcrumb: false
-tags:
-    - LoPy
-    - Pycom
+category: Event Report
+tags: [LoPy,LoRaWAN,hackathon,Pycom,sensors,transport,active travel]  
 image:
     title: team-flow.jpg
     thumb: team-flow-thumb.jpg
-author: ewan
-show_meta: false
 ---
 As a prize for their winning contribution to the [Edinburgh IoT Challenge](http://iot.ed.ac.uk/iotchallenge/), Team Flow &mdash; a multidisciplinary student team from the University of Edinburgh &mdash; has been invited to attend the [Pycom Hackathon](https://www.pycom.io/pycom-eindhoven-hackathon/), Eindhoven, Saturday 17th June 2017. 
  

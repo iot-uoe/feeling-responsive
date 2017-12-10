@@ -4,16 +4,18 @@
       </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 
-    <footer id="footer-content">
+
+    <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
+            <img src="{{ site.urlimg }}UoE_logo_white.png" alt="The University of Edinburgh"/>
+           <!--  <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
 
             <p class="shadow-black">
               {{ site.description }}
               <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
-            </p>
+            </p> -->
           </div><!-- /.large-6.columns -->
 
 
@@ -23,10 +25,10 @@
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
               {% endif %}
             {% endfor %}
-
+              
               <ul class="no-bullet shadow-black">
               {% for service_item in site.data.services %}
-                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.url + site.baseurl %}{% endif %}
+                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
                   <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
                     <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
                   </li>
@@ -41,10 +43,10 @@
                 <h5 class="shadow-black">{{ network_item.menu_name }}</h5>
               {% endif %}
             {% endfor %}
-
+              
             <ul class="no-bullet shadow-black">
             {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.url + site.baseurl %}{% endif %}
+              {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
                   <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
                 </li>
@@ -55,23 +57,28 @@
 
       </div><!-- /#footer -->
 
+
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            {{ site.copyright }} {{ site.credits }}
+          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+            <p>
+              {{ site.copyright }}
+            </p>
+            <p>
+              The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336, VAT Registration Number GB 592 9507 00, and is acknowledged by the UK authorities as a “Recognised body” which has been granted degree awarding powers.
+            </p>
+            <p>
+              Powered by <a href="https://jekyllrb.com">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> Theme
+            </p>
           </section>
-<!-- 
-          <section id="subfooter-center" class="small-12 medium-6 columns credits">
-            {{ site.credits }}
-          </section> -->
 
-         <section id="subfooter-right" class="small-12 medium-4 columns">
-            <ul class="inline-list social-icons">
+          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+            <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
             </ul>
-          </section> 
+          </section>
         </nav>
       </div><!-- /#subfooter -->
     </footer>

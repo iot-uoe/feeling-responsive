@@ -1,19 +1,12 @@
 ---
 layout: page
-subheadline: Event Report
 title:  "2017 IoT Challenge"
 teaser: "Hacking with LoPy Devices"
-breadcrumb: false
-tags:
-    - LoPy
-    - LoRa
-    - workshop
-    - Pycom
+category: Event Report
+tags: [LoPy,LoRaWAN,workshop,hackathon,Pycom,sensors,environmental monitoring,transport,active travel,City of Edinburgh Council]  
 image:
     title: valentin.jpg
     thumb: skyline-thumb.jpg
-author: ewan
-show_meta: false
 ---
 The [IoT Challenge]( {{ site.url }}/iotchallenge) was a 5-day student hackathon focussed on building innovative uses with low-cost IoT devices and sensors. Modelled loosely on the School of Informatics [Smart Data Hack](http://smartdatahack.org), the event took advantage of the break in teaching offered by 2017's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk). 
 

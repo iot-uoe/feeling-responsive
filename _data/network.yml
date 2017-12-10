@@ -5,6 +5,11 @@
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
+- name: "Icons by the Noun Project"
+  url: "http://thenounproject.com/"
+  class: "network-entypo"
+  title: "Icons by the Noun Project"
+
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"

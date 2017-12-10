@@ -21,7 +21,7 @@ permalink: "/iotchallenge/"
 
 ## Overview
 
-The **IoT Challenge** is a 5-day hackathon (20&ndash;24 February 2017) during the University of Edinburgh's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
+The **IoT Challenge** was a 5-day hackathon (20&ndash;24 February 2017) during the University of Edinburgh's [Festival of Creative Learning](http://www.festivalofcreativelearning.ed.ac.uk) which will bring students and researchers together to build tools and applications using Internet of Things technology.
 
 The IoT Challenge is hosted by the [School of Informatics](http://www.ed.ac.uk/schools-departments/informatics/) in partnership with [Information Services](http://www.ed.ac.uk/information-services).
 

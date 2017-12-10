@@ -1,19 +1,13 @@
 ---
 layout: page
-subheadline: Event Report
 title:  "IoT Workshop in Nairobi"
 teaser: "LoRaWAN Doing-It-Together"
-breadcrumb: false
-tags:
-    - LoPy
-    - LoRa
-    - workshop
-    - Pycom
+category: Event Report
+tags: [LoPy,LoRaWAN,workshop,hackathon,Pycom,sensors,environmental monitoring,energy data,innovation,sustainability]
 image:
     title: skyline.jpg
     thumb: skyline-thumb.jpg
 author: cat
-show_meta: false
 ---
 2 December 2016 &mdash; it was a sunny morning at the campus of [Strathmore University](http://www.strathmore.edu/en/) in Nairobi, Kenya. The voices of students gathered in the student centre canteen echoed throughout the atrium, reaching all the way to the 4th and 5th floors, where 
 [@iLabAfrica](http://www.ilabafrica.ac.ke) is located and where our Internet of Things (IoT) workshop with [Pycom](https://www.pycom.io) was about to take place. 

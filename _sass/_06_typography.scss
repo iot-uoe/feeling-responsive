@@ -1,4 +1,3 @@
-@charset "utf-8";
 /* TOC – Typography
 
 Check typography variables › _3_typography_settings.scss
@@ -26,23 +25,23 @@ Check typography variables › _3_typography_settings.scss
 
 a,
 a:link {
-    transition: all .4s;
+    color: $t-link;
 }
 
 a:visited {
-    border-bottom: $grey-2;
+        border-bottom: $grey-2;
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
+        color: darken( $t-link, 10% );
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+        color: lighten( $t-link, 20% );
 }
 
 a:active {
-    color: darken( $ci-1, 20% );
+        color: darken( $t-link, 20% );
 }
 
 
@@ -51,18 +50,15 @@ a:active {
 ------------------------------------------------------------------- */
 
 p {
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-    -ms-word-break: normal;
-    /* Non standard for webkit */
-    word-break: normal;
+    -webkit-hyphens: $body-hyphenation;
+    -moz-hyphens: $body-hyphenation;
+    -ms-hyphens: $body-hyphenation;
+    hyphens: $body-hyphenation;
 }
 p a,
 article a {
-    font-weight: bold;
-    border-bottom: 1px dotted;
+//    font-weight: bold;
+//    border-bottom: 1px dotted;
 }
 p a:hover,
 article a:hover {
@@ -238,36 +234,35 @@ blockquote {
     position: relative;
     border: none;
     margin: 0 30px 30px 30px;
-    color:  $grey-11;
+    color: #4b4b4d
 }
 
     blockquote p {font-style: italic; color: $grey-10; }
 
-    // blockquote:before {
-    //     display:block;content:"\00BB";
-    //     font-size:80px;
-    //     line-height: 0;
-    //     position:absolute;
-    //     left:-25px;
-    //     top: auto;
-    //     color: $grey-11;
-    // }
-    // blockquote:after {
-    //     display:block;
-    //     content:"\00AB";
-    //     font-size:80px;
-    //     line-height: 0;
-    //     position:absolute;
-    //     right:-10px;
-    //     bottom: 20px;
-    //     color: $grey-11;
-    // }
-    
+    blockquote:before {
+        display:block;content:"\00BB";
+        font-size:80px;
+        line-height: 0;
+        position:absolute;
+        left:-25px;
+        top: auto;
+        color:#4b4b4d
+    }
+    blockquote:after {
+        display:block;
+        content:"\00AB";
+        font-size:80px;
+        line-height: 0;
+        position:absolute;
+        right:-10px;
+        bottom: 20px;
+        color:#4b4b4d;
+    }
     blockquote cite:before {
         content:"\2014 \0020"
     }
     blockquote cite a,blockquote cite a:visited {
-        color: $grey-10;
+        color: #555
     }
 cite {
     padding-top: 5px;
@@ -399,7 +394,6 @@ mark {
 .icon-feather:before,
 .icon-github:before,
 .icon-globe:before,
-.icon-googleplus:before,
 .icon-heart:before,
 .icon-heart-outlined:before,
 .icon-home:before,
@@ -468,7 +462,6 @@ font-smoothing: antialiased;
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
-.icon-googleplus:before { content: "\f136"; }
 .icon-heart:before { content: "\f117"; }
 .icon-heart-outlined:before { content: "\f118"; }
 .icon-home:before { content: "\f119"; }

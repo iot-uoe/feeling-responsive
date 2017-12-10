@@ -2,6 +2,8 @@
 layout: page
 show_meta: false
 title: "Forthcoming Events"
+header:
+    image_fullwidth: "iot-challenge-poster.png"
 permalink: "/events/"
 ---
 

@@ -10,10 +10,10 @@
   affiliation: "Principal's Office"
   url: http://www.ed.ac.uk/principals-office/vice-principals-smgt/assistant-principals/collins
 
-- name: "Alec Edgcliffe-Johnson"
-  job: "President"
-  affiliation: "Edinburgh University Students Association"
-  url: https://www.eusa.ed.ac.uk/representation/yourrepresentatives/president/
+# - name: "Alec Edgcliffe-Johnson"
+#   job: "President"
+#   affiliation: "Edinburgh University Students Association"
+#   url: https://www.eusa.ed.ac.uk/representation/yourrepresentatives/president/
 
 - name: "Matt Hodson"
   job: "Head of Operations"
@@ -21,11 +21,12 @@
   url: https://www.linkedin.com/in/matthew-hodson-b52a93116
 
 - name: "Ewan Klein"
-  affiliation: "School of Informatics"
+  job: "IoT Programme Sponsor"
+  affiliation: "Information Services/School of Informatics"
   url: https://www.linkedin.com/in/ewanklein
 
 - name: "Cat Magill"
-  job:
+  job: "Project Coordinator"
   affiliation: "Edinburgh Living Lab &amp; School of Informatics"
   url: https://www.linkedin.com/in/catherinermagill
 
@@ -36,12 +37,12 @@
 
 - name: "David Richardson"
   job: "Director of Partnerships (Data Science)"
-  affiliation: "School of Informatics"
+  affiliation: "School of Informatics/Bayes Centre"
   url: https://www.linkedin.com/in/drichardson
 
 - name: "Ritchie Somerville"
-  job: "Innovation and Futures Manager"
-  affiliation: "City of Edinburgh Council"
+  job: "Programme Advisor"
+  affiliation: "Data Driven innovation Programme"
   url: https://www.linkedin.com/in/ritchie-somerville-a1607910
 
 - name: "Chris Speed"
