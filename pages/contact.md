@@ -5,7 +5,7 @@ teaser: "Get in touch with us? Use the contact form."
 permalink: "/contact/"
 ---
 The IoT Research and Innovation Service staff can help you design and implement your project. This includes guidance on writing a Privacy Impact Assessment (for GDPR compliance); selection of IoT devices/sensors; embedded programming; and data modelling and applied data science. 
-If you have any questions about the IoT initiative, have ideas for working with us and our network, or want to find out any further information on the IoT Research and Innovation Service, please use this form for your initial enquiry. 
+If you have any questions about the IoT Initiative, have ideas for working with us and our network, or want to find out any further information on the IoT Research and Innovation Service, please use this form for your initial enquiry. 
 
 <form id="contact" action="https://formspree.io/ewan@inf.ed.ac.uk"
       method="POST">

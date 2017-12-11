@@ -32,7 +32,7 @@ permalink: "/about/"
 </ul>
 <ul class="small-block-grid-2">
     <li>
-        <h3><a href="{{ site.url }}/Coordination/">Coordination Group</a></h3>
+        <h3><a href="{{ site.url }}/coordination/">Coordination Group</a></h3>
         <div class="panel">
            The Coordination Group (CoG) undertakes informal knowledge-sharing and monitoring of the Action Groups.
         </div>
