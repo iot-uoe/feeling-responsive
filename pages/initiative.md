@@ -1,12 +1,24 @@
 ---
-layout: page
-title: "IoT Initiative"
-subheadline: Developing IoT Infrastructure at the University of Edinburgh
+layout: page-fullwidth
+title: "IoT Initiative: Strategy and Objectives"
+subheadline: IoT at the University of Edinburgh
 header:
     image_fullwidth: "discussion.png"
 permalink: "/initiative/"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
 
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 ### Overview
 
 The University of Edinburgh Internet of Things (IoT) Initiative is building the facilities and supporting services that will enable research and teaching at the University to safely and responsibly explore the rapidly expanding world of connected devices. 
@@ -29,11 +41,13 @@ The University of Edinburgh IoT Initiative is also seeking to develop a larger i
 ### Programme Objectives 
 
 <div class="t10" markdown="1">
-The objectives for the IOT Initiative are to:
+The objectives for the IoT Initiative are to:
 
 1.	Enable and support world-class research and innovation through the development and use of IoT technology;
 2.	Enable the development of a rich talent pipeline with “hands-on” experience of IoT, complementing the University’s existing teaching Programmes and Edinburgh’s world-class strengths in Data Science;
 3.	Promote the Edinburgh region as a world-leading “Living Lab” for proof of concepts with the potential to generate significant social, commercial and academic value. 
+4. Help the University to capture and generate value from the application and use of IoT technologies in future service delivery and operations. 
+
 </div>
 
 ### Key Principles  
@@ -44,3 +58,5 @@ Our key principles are the following:
 1. Building open Internet of Things (IoT) infrastructure and services that maximise innovation across the multiple value chains; 
 2. supporting collaboration across the widest possible set of partners, both regionally and internationally; and
 3. establishing strong and transparent governance structures that encourage broad participation by stakeholders, ethical collection and use of data, and innovation for social good.
+
+</div>
